@@ -8,6 +8,9 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Juliocj7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocj7&layout=compact&theme=dark)](https://github.com/Juliocj7/github-readme-stats)
 
+<p align="center">
+<a href="https://github.com/abhackerofficial/pentesting-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abhackerofficial&repo=pentesting-framework"></a>
+</p>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/abhackerofficial)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhackerofficial&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
