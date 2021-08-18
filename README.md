@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
----
 <p align="center">⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</p>
 
 ---
