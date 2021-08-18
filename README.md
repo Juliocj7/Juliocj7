@@ -7,3 +7,9 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Juliocj7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliocj7&layout=compact&theme=dark)](https://github.com/Juliocj7/github-readme-stats)
+
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/abhackerofficial)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=abhackerofficial&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
