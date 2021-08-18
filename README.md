@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
-[![Facebokm Badge](https://img.shields.io/badge/-Juliocj7-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/perfil/)](https://www.facebook.com/perfil) [![Instagram Badge](https://img.shields.io/badge/-Juliocj7-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/perfil/)](https://www.instagram.com/perfil/)
-
 ---
 <p align="center">⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</p>
 
