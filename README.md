@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
 <p align="center">
-<img src="https://media2.giphy.com/media/Xg4LHuOqqlz6cUyKdu/giphy.gif?cid=6c09b952d3bbbd4e27c293e00260041f3686a55eb6ede36d&rid=giphy.gif&ct=s" width="128" height="135"/>
+<img src="https://media2.giphy.com/media/Xg4LHuOqqlz6cUyKdu/giphy.gif?cid=6c09b952d3bbbd4e27c293e00260041f3686a55eb6ede36d&rid=giphy.gif&ct=s" width="250" height="120"/>
 </p>
 
 <p align="center">
