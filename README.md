@@ -14,7 +14,9 @@
 
 
 <p align="center">
+<a href="https://github.com/Juliocj7/UtilsCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark"></a>
 <a href="https://github.com/Juliocj7/UtilsCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark"></a>
+<a href="https://github.com/Juliocj7/UtilsCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark"></a>
 <a href="https://github.com/Juliocj7/MsfCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark"></a>
 </p>
 
