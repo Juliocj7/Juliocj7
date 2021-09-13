@@ -1,5 +1,12 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)-->
-
+<details>
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</summary>
+<br>
+ - JulioCj7 es mi proyecto privado y personal.<br>
+ - Puedes **mirar** pero NO!!! **copiar**.<br>
+ - Inicio de creación >> 10 de agosto del 2021.
+</details>
+<br>
 <p align="center"><img src="https://media3.giphy.com/media/F3dhZomZnK8C16Pzj7/giphy.gif?cid=82a1493bqkjqefefktyzyb8rennvbebfb132blbiuuu0e9d5&rid=giphy.gif&ct=s" width="158" height="165"/> </p>
 
 <p align="center">
