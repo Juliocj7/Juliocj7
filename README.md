@@ -18,7 +18,6 @@
 <a href="https://github.com/Juliocj7/MsfCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark"></a>
 </p>
 
-<p align="center"><img src="https://media2.giphy.com/media/Xg4LHuOqqlz6cUyKdu/giphy.gif?cid=6c09b952d3bbbd4e27c293e00260041f3686a55eb6ede36d&rid=giphy.gif&ct=s" width="250" height="120"/></p>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/Juliocj7)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
