@@ -21,5 +21,5 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=9b9b9b&height=150&section=footer)
 
