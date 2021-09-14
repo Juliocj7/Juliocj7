@@ -14,7 +14,7 @@
 </p>
 
 ---
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000 /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Juliocj7/github-readme-stats)
 
