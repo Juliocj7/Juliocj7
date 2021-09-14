@@ -6,7 +6,7 @@
  - Asi que puedes mirar pero NO !!! copiar inmundo animal.<br>
 </details>
 <br>
-<p align="center"><img src="https://media3.giphy.com/media/F3dhZomZnK8C16Pzj7/giphy.gif?cid=82a1493bqkjqefefktyzyb8rennvbebfb132blbiuuu0e9d5&rid=giphy.gif&ct=s" width="158" height="140"/> </p>
+<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj7.gif" width="158" height="140"/> </p>
 
 <p align="center">
   ⸸ 𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7
