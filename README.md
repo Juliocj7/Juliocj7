@@ -13,6 +13,10 @@
 ... of the best !!! ⸸
 </p>
  
+<br/>
+<a href="https://github.com/Juliocj7/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
 ---
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000 /> </p>
 
@@ -31,8 +35,4 @@
 ---
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=808080&height=150&section=footer)
 
-<br/>
 
-<a href="https://github.com/Juliocj7/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
