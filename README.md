@@ -14,7 +14,7 @@
 </p>
  
 ---
-<p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic/> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
 
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
