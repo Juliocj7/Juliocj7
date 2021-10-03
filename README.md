@@ -17,7 +17,7 @@
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000 /> </p>
 
 
-<a href="https://github.com/Juliocj7/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Juliocj7/github-readme-stats)
