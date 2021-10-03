@@ -20,7 +20,10 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
 <br/>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true)](https://github.com/Zachpocalypse/github-readme-stats)
+<!--[![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true)](https://github.com/Zachpocalypse/github-readme-stats)-->
+
+<a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true"></a>
+
 
 <p align="center">
 <a href="https://github.com/Juliocj7/UtilsCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
