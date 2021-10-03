@@ -33,6 +33,6 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
 
 ---
-![footer](https://capsule-render.vercel.app/api?type=wave&color=808080&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
 
