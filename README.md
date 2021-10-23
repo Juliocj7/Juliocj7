@@ -49,6 +49,20 @@
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
 
 ---
+Objetivos :
+------
+
+* [x] BashScript
+* [x] Python 
+* [x] PHP
+* [x] HTML5
+* [x] CSS
+* [x] JavaScript
+* [x] Go
+* [x] Perl
+* [ ] Swift
+
+---
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
 
