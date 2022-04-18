@@ -65,4 +65,7 @@ Objetivos :
 ---
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Estado+actual:+En+busca+de+mi+paz+interior+xD)](https://git.io/typing-svg)
+<!--[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=36&multiline=true&width=970&height=300&lines=Estado+actual:+En+busca+de+mi+paz+interior+xD)](https://git.io/typing-svg)-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AFFB8&lines=Soy+alguien+que;adora+ser+único;Simply+The+Best;By:+Julio+Cj7)](https://git.io/typing-svg)
+
