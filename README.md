@@ -22,8 +22,7 @@
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
 <p align="center">
-  𝚂 &nbsp𝙸 &nbsp𝙼 &nbsp𝙿 &nbsp𝙻 &nbsp𝚈 &nbsp&nbsp𝚃 &nbsp𝙷 &nbsp𝙴 &nbsp&nbsp𝙱 &nbsp𝙴 &nbsp𝚂 &nbsp𝚃
-
+𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
 
 ---
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
