@@ -22,11 +22,7 @@
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
 <p align="center">
-  ⸸ 𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7
-... of the best !!! ⸸
-</p>
-
-![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snake.svg)
+  𝚂 &nbsp𝙸 &nbsp𝙼 &nbsp𝙿 &nbsp𝙻 &nbsp𝚈 &nbsp&nbsp𝚃 &nbsp𝙷 &nbsp𝙴 &nbsp&nbsp𝙱 &nbsp𝙴 &nbsp𝚂 &nbsp𝚃
 
 
 ---
