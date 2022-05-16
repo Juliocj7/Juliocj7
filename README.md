@@ -45,6 +45,8 @@
 <a href="https://github.com/Juliocj7/MsfCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
 </p>
 
+![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snake.svg)
+
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
 
