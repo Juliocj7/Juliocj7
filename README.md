@@ -25,7 +25,10 @@
   ⸸ 𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7
 ... of the best !!! ⸸
 </p>
- 
+
+![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snake.svg)
+
+
 ---
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
 
