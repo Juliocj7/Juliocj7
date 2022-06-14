@@ -32,8 +32,6 @@
 
 <!--[![Github stats](https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true)](https://github.com/Zachpocalypse/github-readme-stats)-->
 
-
-
 <p align="center">
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true"></a>
 <br>
@@ -67,3 +65,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
+
+<center><a href="https://www.buymeacoffee.com/juliocj766Z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffe&emoji=&slug=Juliocj7&button_colour=2ff22c&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a></center>
