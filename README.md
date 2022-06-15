@@ -66,4 +66,4 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
-<p align="center"><a href="https://www.buymeacoffee.com/juliocj766Z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffe&emoji=&slug=Juliocj7&button_colour=2ff22c&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/juliocj766Z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffe&emoji=&slug=Juliocj7&button_colour=2ff22c&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
