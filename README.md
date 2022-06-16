@@ -1,4 +1,4 @@
-<!--  
+<!--
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 
 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃𝙴 !!!
@@ -7,9 +7,8 @@
 𝙱𝙰𝚂𝚄𝚁𝙰𝚂 𝙲𝙾𝙼𝙾 𝚃𝚄 𝙽𝙾 𝙳𝙴𝙱𝙴𝚁𝙸𝙰𝙽 𝙴𝚇𝙸𝚂𝚃𝙸𝚁 𝚁𝙰𝚃𝙰 𝙸𝙽𝙼𝚄𝙽𝙳𝙰 !!!
 𝚂𝙴 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝚈 𝙳𝙴𝙹𝙰 𝙳𝙴 𝚁𝙾𝙱𝙰𝚁 𝚂𝙲𝚁𝙸𝙿𝚃𝚂 𝚈 𝙴𝚂𝚃𝙸𝙻𝙾𝚂 𝙰 𝙾𝚃𝚁𝙾𝚂 !!!
 
-
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
---> 
+-->
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)-->
 <details>
@@ -26,7 +25,6 @@
 
 ---
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
-
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
 
