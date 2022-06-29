@@ -17,6 +17,7 @@
 así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <p align="right"><strong><samp>」</samp></strong></p>
 </details>
+
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
 <p align="center">
