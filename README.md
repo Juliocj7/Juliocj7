@@ -11,7 +11,7 @@
 -->
 
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)-->
-<details>
+<details align="center">
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</summary>
 <br>
  - JulioCj7 es mi proyecto privado y personal.<br>
