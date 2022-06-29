@@ -59,7 +59,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)-->
 
-<a href="https://git.io/typing-svg"><img alt="Machine404 Activity Graph" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7"/></a>
+<a href="https://git.io/typing-svg"><img alt="Machine404 Activity Graph" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true"/></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
