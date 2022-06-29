@@ -10,12 +10,11 @@
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 -->
 
-<!--![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)-->
 <details align="center">
-<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</summary>
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</summary><samp>
 <br>
- - JulioCj7 es mi proyecto privado y personal.<br>
- - Asi que puedes mirar pero NO !!! copiar inmundo animal.<br>
+JulioCj7 es mi proyecto privado y personal.<br>
+Asi que puedes mirar pero no copiar inmundo animal xD.<br>
 </details>
 <br>
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
