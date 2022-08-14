@@ -67,8 +67,8 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 ---
 
-<h2 align="center">
+<h6 align="center">
 
-**[`^       😛 Inicio 😛        ^`](#)**
+**[`       😛 Inicio 😛        `](#)**
 
-</h2>
+</h6>
