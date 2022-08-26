@@ -18,6 +18,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <p align="right"><strong><samp>」</samp></strong></p>
 </details>
 
+<!-- width="100%" -->
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95"/> </p>
 
 <p align="center">
@@ -26,7 +27,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 ---
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=525252&point=ff0000&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" /></a>
 
 <p align="center">
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true"></a>
