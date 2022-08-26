@@ -73,3 +73,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 **[`       ❤️‍🔥 Inicio ❤️‍🔥        `](#)**
 
 </h6>
+
+<!--
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+-->
