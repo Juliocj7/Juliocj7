@@ -76,4 +76,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 <!--
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
 -->
