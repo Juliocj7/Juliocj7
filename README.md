@@ -68,6 +68,8 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 ---
 
+##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -
+
 <h6 align="center">
 
 **[`        Inicio         `](#)**
