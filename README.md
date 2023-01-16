@@ -38,7 +38,8 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <a href="https://github.com/Juliocj7/MsfCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
 </p>
 
-![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snake.svg)
+<!--![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snake.svg)-->
+![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake.svg)
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
@@ -54,6 +55,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] JavaScript
 * [x] Go
 * [x] Perl
+* [ ] Java
 * [ ] Swift
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
@@ -82,5 +84,3 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
 -->
-
-![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake.svg)
