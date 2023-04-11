@@ -25,7 +25,16 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
 
 ---
+<!--
 <p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
+<p align=center> <img src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic /> </p>
+![GitHub repo size](https://img.shields.io/github/repo-size/Juliocj7/Juliocj7)
+-->
+
+<p align=center>
+<img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
+<img src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+</p>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" /></a>
 
