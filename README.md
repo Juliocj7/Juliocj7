@@ -51,7 +51,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 ![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake.svg)
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18)
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 <br><br>
@@ -79,7 +79,13 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 ---
 
-##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -
+<!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
+
+<p align=center>
+<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj />
+</p>
+
+##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
 
 <h6 align="center">
 
