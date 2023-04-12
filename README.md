@@ -82,7 +82,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
 
 <p align=center>
-<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7 />
+<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
 </p>
 
 ##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
