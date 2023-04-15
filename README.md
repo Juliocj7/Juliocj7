@@ -36,6 +36,16 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <img src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
 </p>
 
+
+
+<p align="center">
+<a href=https://t.me/SimplyTheBest6><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
+<a href=https://www.facebook.com/SimplyTheBest><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
+<!--<a href="https://www.youtube.com/c/JulioCj7"><img title="youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=for-the-badge&logo=Youtube"></a>-->
+</p>
+
+
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" /></a>
 
 <p align="center">
@@ -64,8 +74,21 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] JavaScript
 * [x] Go
 * [x] Perl
-* [ ] Java
+* [x] Java
 * [ ] Swift
+
+<br>
+<p align="center">
+<img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
+<img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux&logoColor=00ffff">
+<img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
+</p>
+
+<!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
+
+<p align=center>
+<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
+</p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 
@@ -78,12 +101,6 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 <p align="center"><a href="https://www.buymeacoffee.com/juliocj766Z"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffe&emoji=&slug=Juliocj7&button_colour=2ff22c&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a></p>
 
 ---
-
-<!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
-
-<p align=center>
-<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
-</p>
 
 ##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
 
