@@ -77,8 +77,11 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] Java
 * [ ] Swift
 
-<br>
+<hr>
 <p align="center">
+<img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"> <img width=36 alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"> <img width=36 alt="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+<br>
+<br>
 <img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
 <img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux&logoColor=00ffff">
 <img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
