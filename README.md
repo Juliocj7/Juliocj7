@@ -64,7 +64,9 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18)
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-<br><br>
+<br>
+
+## <img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67"/> My learning:
 
 * [x] BashScript
 * [x] Python 
@@ -72,6 +74,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] HTML5
 * [x] CSS
 * [x] JavaScript
+* [x] C++
 * [x] Go
 * [x] Perl
 * [x] Java
