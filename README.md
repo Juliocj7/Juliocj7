@@ -78,6 +78,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] Go
 * [x] Perl
 * [x] Java
+* [x] Kotlin
 * [ ] Swift
 
 <hr>
