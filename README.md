@@ -129,3 +129,29 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 -->
+
+<!--
+<div align="center">
+<p align="center">
+<kbd>
+<a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
+                <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
+            </a>
+            <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog"><img
+                    src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
+            </a>
+</kbd>
+</p>
+</div>
+-->
+
+<div align="center">
+    <p align="center">
+        <kbd>
+¡¡¡ Nunca dejes de aprender !!!
+        </kbd>
+    </p>
+</div>
+
+
+
