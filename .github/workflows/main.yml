@@ -9,9 +9,16 @@ on:
     - main
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+#jobs:
+  #build:
+    #name: Jobs to update datas
+    #runs-on: ubuntu-latest
     steps:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
