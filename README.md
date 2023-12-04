@@ -93,10 +93,6 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 <!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
 
-<p align=center>
-<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
-</p>
-
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)-->
@@ -109,9 +105,9 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 > ## Created by SimplyTheBest
 > 
-> Date...: 04-12-2023 14:30:00
-> 
->     ¡ Nunca dejes de aprender!
+> > Datetime: 04-12-2023 14:30:00
+>
+> > ¡¡¡ Nunca dejes de aprender !!!
 
 <h6 align="center">
 
@@ -157,6 +153,10 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 </div>
 
 ##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
+
+<p align=center>
+<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
+</p>
 -->
 
 
