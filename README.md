@@ -74,7 +74,8 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 * [x] HTML5
 * [x] CSS
 * [x] JavaScript
-* [x] C++
+* [x] C && C++
+* [x] Rust
 * [x] Go
 * [x] Perl
 * [x] Java
@@ -107,7 +108,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 > 
 > > Datetime: 04-12-2023 14:30:00
 >
-> > ¡¡¡ Nunca dejes de aprender !!!
+> > ¡¡¡ Nunca dejes de aprender xD !!!
 
 <h6 align="center">
 
