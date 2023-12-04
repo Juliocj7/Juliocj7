@@ -107,7 +107,14 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 ---
 
-##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
+> ## Created by SimplyTheBest
+> 
+> 1.   04-12-2023 14:22:00
+> 2.   **[`        Inicio         `](#)**
+> 
+> JulioCj7 say:
+> 
+>     ¡ Nunca dejes de aprender!
 
 <h6 align="center">
 
@@ -143,6 +150,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 </div>
 -->
 
+<!--
 <div align="center">
     <p align="center">
         <kbd>
@@ -151,5 +159,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
     </p>
 </div>
 
+##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
+-->
 
 
