@@ -4,9 +4,10 @@ on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-    - main
+  push: {branches: ["main"]}
+  #push:
+    #branches:
+    #- main
 
 jobs:
   generate:
