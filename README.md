@@ -106,7 +106,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 > ## Created by SimplyTheBest
 > 
-> > Datetime: 04-12-2023 14:30:00
+> > Datetime..: 04-12-2023 14:30:00
 >
 > > ¡¡¡ Nunca dejes de aprender xD !!!
 
