@@ -1,13 +1,11 @@
 name: Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "* */12 * * *"   #! execute every 12 hours
+    #- cron: "0 */6 * * *"    #! execute every 6 hours
   workflow_dispatch:
   push: {branches: ["main"]}
-  #push:
-    #branches:
-    #- main
 
 jobs:
   generate:
