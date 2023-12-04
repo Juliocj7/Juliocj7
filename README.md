@@ -110,11 +110,11 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 >
 > > ¡¡¡ Nunca dejes de aprender xD !!!
 
-<h6 align="center">
+<h4 align="center">
 
 **[`        Inicio         `](#)**
 
-</h6>
+</h4>
 
 <!--
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
