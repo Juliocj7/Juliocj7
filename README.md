@@ -58,7 +58,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 </p>
 
 <!--![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snakecj7.svg)-->
-![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18)
