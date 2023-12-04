@@ -109,10 +109,7 @@ así que puedes mirar pero no copiar inmundo animal xD<br><br>
 
 > ## Created by SimplyTheBest
 > 
-> 1.   04-12-2023 14:22:00
-> 2.   **[`        Inicio         `](#)**
-> 
-> JulioCj7 say:
+> Date...: 04-12-2023 14:30:00
 > 
 >     ¡ Nunca dejes de aprender!
 
