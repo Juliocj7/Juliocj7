@@ -10,13 +10,30 @@
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 -->
 
-<details align="center">
-<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸</summary>
-<p align="left"><strong><samp>「</samp><strong></p>
-<samp>Julio★Cj7 es mi proyecto privado<br>y personal,
-así que puedes mirar pero no copiar inmundo animal xD<br><br>
-<p align="right"><strong><samp>」</samp></strong></p>
-</details>
+<!-- Profile -->
+<div align="justify">
+  <details align="center">
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
+      <p align="left"><strong><samp>「</samp><strong></p>
+        <p align="center">
+          <samp>
+            <b>
+              Proyecto privado y personal,
+            <br>
+              así que puedes mirar pero no copiar inmundo animal xD
+            </b>
+            <br>
+            <br>
+              <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=13&color=cecece&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
+            <br>
+            <b>
+              ~ simply the best my friend ~
+            </b>
+          </samp>
+        </p>
+      <p align="right"><strong><samp>」</samp></strong></p>
+  </details>
+</div>
 
 <!-- width="100%" -->
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95"/> </p>
