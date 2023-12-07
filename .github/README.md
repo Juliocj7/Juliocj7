@@ -24,7 +24,7 @@
             </b>
             <br>
             <br>
-              <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=13&color=cecece&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
+              <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
             <br>
             <b>
               ~ simply the best my friend ~
