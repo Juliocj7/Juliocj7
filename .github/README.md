@@ -35,8 +35,12 @@
   </details>
 </div>
 
-<!-- width="100%" -->
-<p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95"/> </p>
+<div align="center">
+  <a href="#--------">
+    <!-- width="100%" -->
+    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95"/>
+  </a>
+</div>
 
 <p align="center">
 𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
