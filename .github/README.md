@@ -10,7 +10,6 @@
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧
 -->
 
-<!-- Profile -->
 <div align="justify">
   <details align="center">
     <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
@@ -112,7 +111,7 @@
   </a>
 </div>
 
-## <img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67"/> My learning:
+## <img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67" /> My learning:
 
 * [x] BashScript
 * [x] Python 
@@ -129,42 +128,81 @@
 * [ ] Swift
 
 <hr>
-<p align="center">
-<img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"> <img width=36 alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"> <img width=36 alt="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+
+<div align="center">
+  <img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"> <img width=36 alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"> <img width=36 alt="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <br>
+  <br>
+  <img  src="https://img.shields.io/badge/linux-black?style=flat&logo=linux">
+  <img  src="https://img.shields.io/badge/kalilinux-black?style=flat&logo=kalilinux&logoColor=00ffff">
+  <img  src="https://img.shields.io/badge/ubuntu-black?style=flat&logo=ubuntu">
+</div>
+
 <br>
-<br>
-<img  src="https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux">
-<img  src="https://img.shields.io/badge/kalilinux-black?style=for-the-badge&logo=kalilinux&logoColor=00ffff">
-<img  src="https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu">
-</p>
 
-<!--[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)-->
+<div align="center">
+  <a href="#--------">
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3" />
+  </a>
+</div>
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="Machine404 Activity Graph" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
+  </a>
+</div>
 
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)-->
-
-<a href="https://git.io/typing-svg"><img alt="Machine404 Activity Graph" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab"/></a>
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)
+-->
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
 
----
+***
 
 > ## Created by SimplyTheBest
 > 
 > > Datetime..: 04-12-2023 14:30:00
 >
 > > ¡¡¡ Nunca dejes de aprender xD !!!
+>
+> > +591 79424937 😜
 
-<h4 align="center">
+___
+
+<div align="letf">
+  <h4>
 
 **[`        Inicio         `](#)**
 
-</h4>
+  </h4>
+</div>
+
+<!--
+<div align="center">
+  <p align="center">
+    <kbd>
+      ¡¡¡ Nunca dejes de aprender !!!
+    </kbd>
+  </p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <kbd>
+      <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
+        <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog">
+        <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
+      </a>
+    </kbd>
+  </p>
+</div>
+-->
 
 <!--
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
 -->
@@ -176,34 +214,11 @@
 -->
 
 <!--
-<div align="center">
-<p align="center">
-<kbd>
-<a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
-                <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
-            </a>
-            <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog"><img
-                    src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
-            </a>
-</kbd>
-</p>
-</div>
--->
-
-<!--
-<div align="center">
-    <p align="center">
-        <kbd>
-¡¡¡ Nunca dejes de aprender !!!
-        </kbd>
-    </p>
-</div>
-
-##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
-
 <p align=center>
 <img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
 </p>
+
+[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
+
+##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
 -->
-
-
