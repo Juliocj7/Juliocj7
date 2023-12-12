@@ -23,14 +23,14 @@
           </b>
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
-      <br>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!" />
       <br>
       <samp>
           <b>
               ~ simply the best my friend ~
           </b>
       </samp>
+      <br>
       <br>
     </p>
   </details>
