@@ -170,10 +170,10 @@
 
 ___
 
-<div align="letf">
+<div align="center">
   <h4>
 
-**[`             Inicio              `](#)**
+**[`            Inicio             `](#)**
 
   </h4>
 </div>
