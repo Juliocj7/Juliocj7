@@ -170,10 +170,10 @@
 
 ___
 
-<div align="center">
+<div align="left">
   <h4>
 
-**[`            Inicio             `](#)**
+[`              Inicio               `](#)
 
   </h4>
 </div>
