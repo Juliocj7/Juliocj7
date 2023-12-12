@@ -23,7 +23,9 @@
           </b>
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!" />
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=17&color=eaeaea&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!" />
+      <br>
+      <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
       <br>
       <samp>
           <b>
