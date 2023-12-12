@@ -14,23 +14,25 @@
   <details align="center">
     <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
       <p align="left"><strong><samp>「</samp><strong></p>
-        <p align="center">
-          <samp>
-            <b>
+      <p align="center">
+        <samp>
+          <b>
               Proyecto privado y personal,
-            <br>
+          <br>
               así que puedes mirar pero no copiar inmundo animal xD
-            </b>
-            <br>
-            <br>
-              <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
-            <br>
-            <b>
-              ~ simply the best my friend ~
-            </b>
-          </samp>
-        </p>
+          </b>
+        </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
+      <br>
+      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e5e5e5&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!">
+      <br>
+      <samp>
+          <b>
+              ~ simply the best my friend ~
+          </b>
+      </samp>
+      <br>
+    </p>
   </details>
 </div>
 
