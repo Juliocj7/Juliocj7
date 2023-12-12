@@ -49,11 +49,16 @@
 ---
 
 <div align="center">
-  <img title="Profile Views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
-  <img title="Repo Size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+  <a href="#--------">
+    <img title="Profile Views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
+  </a>
+  <a href="#--------">
+    <img title="Repo Size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+  </a>
 </div>
 
 <div align="center">
+  <br>
   <a href=https://t.me/SimplyTheBest6>
     <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram" />
   </a>
@@ -68,27 +73,44 @@
   -->
 </div>
 
-
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" /></a>
-
-<p align="center">
-<a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true"></a>
 <br>
-<a href="https://github.com/Juliocj7/UtilsCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
-<a href="https://github.com/Juliocj7/DarkPhishCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
-<a href="https://github.com/Juliocj7/CriptoCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
-<a href="https://github.com/Juliocj7/MsfCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010"></a>
-</p>
 
-<!--![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/main/snakecj7.svg)-->
-![Snake animation](https://github.com/Juliocj7/Juliocj7/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img alt="Machine404 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" />
+  </a>
+</div>
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
-![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18)
+<div align="center">
+  <a href="https://github.com/Zachpocalypse/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true" />
+  </a>
+  <br>
+  <a href="https://github.com/Juliocj7/UtilsCj7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  </a>
+  <a href="https://github.com/Juliocj7/DarkPhishCj7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  </a>
+  <a href="https://github.com/Juliocj7/CriptoCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  </a>
+  <a href="https://github.com/Juliocj7/MsfCj7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  </a>
+</div>
 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
+![Snake animation](https://github.com/JulioCj7/JulioCj7/blob/output/github-contribution-grid-snake-dark.svg)
+
 <br>
+
+[![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
+
+<div align="center">
+  <a href="#--------">
+    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3" />
+  </a>
+</div>
 
 ## <img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67"/> My learning:
 
