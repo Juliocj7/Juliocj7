@@ -38,32 +38,35 @@
 <div align="center">
   <a href="#--------">
     <!-- width="100%" -->
-    <img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95"/>
+    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95" />
   </a>
 </div>
 
-<p align="center">
-𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
+<div align="center">
+  <p>𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝</p>
+</div>
 
 ---
-<!--
-<p align=center> <img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic /> </p>
-<p align=center> <img src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic /> </p>
-![GitHub repo size](https://img.shields.io/github/repo-size/Juliocj7/Juliocj7)
--->
 
-<p align=center>
-<img src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
-<img src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
-</p>
+<div align="center">
+  <img title="Profile Views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
+  <img title="Repo Size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+</div>
 
-
-
-<p align="center">
-<a href=https://t.me/SimplyTheBest6><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram"></a>
-<a href=https://www.facebook.com/SimplyTheBest><img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=for-the-badge&logo=Facebook"></a>
-<!--<a href="https://www.youtube.com/c/JulioCj7"><img title="youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=for-the-badge&logo=Youtube"></a>-->
-</p>
+<div align="center">
+  <a href=https://t.me/SimplyTheBest6>
+    <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram" />
+  </a>
+  <a href=https://www.facebook.com/SimplyTheBest>
+    <img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=flat&logo=Facebook" />
+  </a>
+  <!--
+  <br>
+  <a href="https://www.youtube.com/c/JulioCj7">
+    <img title="YouTube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube" />
+  </a>
+  -->
+</div>
 
 
 
