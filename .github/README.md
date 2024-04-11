@@ -119,7 +119,7 @@
   </a>
 </div>
 
-## <img src="https://camo.githubusercontent.com/d3acf8f60da8454efb902d2333dc3d6b4ecbf00e4dd5bee5b358d1a5f125acc1/68747470733a2f2f696d672e69636f6e73382e636f6d2f6e6f6c616e2f32362f6769746875622e706e67" /> My learning:
+## <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> My learning:
 
 * [x] BashScript
 * [x] Python 
