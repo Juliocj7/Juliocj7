@@ -12,7 +12,7 @@ ______________________________________________________
 <div align="justify">
   <details align="center">
     <!--<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>-->
-    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7</summary>
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
       <br>
       <p align="left"><strong><samp>「</samp><strong></p>
       <p align="center">
