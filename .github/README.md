@@ -145,9 +145,13 @@ ______________________________________________________
   <img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"> <img width=36 alt="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png"> <img width=36 alt="HTML" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <br>
   <br>
-  <img  src="https://img.shields.io/badge/linux-black?style=flat&logo=linux">
-  <img  src="https://img.shields.io/badge/kalilinux-black?style=flat&logo=kalilinux&logoColor=00ffff">
-  <img  src="https://img.shields.io/badge/ubuntu-black?style=flat&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64">
+  <img  src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
+  <img  src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff">
+  <img  src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Alpine_Linux-black?style=flat&logo=alpine-linux&logoColor=38b6e0">
+  <img src="https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=Arch-Linux&logoColor=d23ce6">
+  <img src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
 </div>
 
 <br>
