@@ -164,7 +164,7 @@ ______________________________________________________
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="Machine404 Activity Graph" src="https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
+    <img alt="SimplyTheBest" src="https://readme-typing-svg.herokuapp.com?color=87ff00&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
   </a>
 </div>
 
@@ -172,7 +172,7 @@ ______________________________________________________
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=101010&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=87ff00&height=150&section=footer)
 
 ***
 
