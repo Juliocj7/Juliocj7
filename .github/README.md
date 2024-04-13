@@ -157,12 +157,6 @@ ______________________________________________________
 <br>
 
 <div align="center">
-  <a href="#--------">
-    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
     <img alt="SimplyTheBest" src="https://readme-typing-svg.herokuapp.com?color=87ff00&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
   </a>
