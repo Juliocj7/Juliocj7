@@ -191,10 +191,6 @@ ______________________________________________________
 > > $${\color{#252525}+591} \space {\color{#f85149}79424937}$$
 > </details>
 
-<div align="center">
-  <sub><code>Datetime..: 14-04-2024 14:10:00</code></sub>
-</div>
-
 $${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Best}$$
 
 ___
@@ -219,6 +215,12 @@ ___
   <a href="#inicio">
     <code><b>🏡 Inicio 🏡</b></code>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <sub><code>Datetime..: 14-04-2024 14:10:00</code></sub>
 </div>
 
 <!--
