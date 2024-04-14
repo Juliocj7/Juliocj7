@@ -180,10 +180,19 @@ ______________________________________________________
 > > * `+591 79424937` 😜
 > </details>
 
+> [!CAUTION]
+> <details>
+>  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
+>
+> ###
+> > $${\color{#656565}Nunca} \space {\color{#656565}dejes} \space {\color{#656565}de} \space {\color{#656565}aprender} \space {\color{#252525}xD}$$
+> > $${\color{#252525}+591} \space {\color{#f85149}79424937}$$
+> </details>
+
 <div align="center">
   <sub>Datetime..: 14-04-2024 14:10:00</sub>
 
-  $${\color{#90EE90}Simply} \space {\color{#383838}The} \space {\color{lightgreen}Best}$$
+  $${\color{#90ee90}Simply} \space {\color{#383838}The} \space {\color{lightgreen}Best}$$
   
 </div>
 
