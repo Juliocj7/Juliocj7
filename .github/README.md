@@ -117,12 +117,6 @@ ______________________________________________________
 [![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
 
-<div align="center">
-  <a href="#--------">
-    <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3" />
-  </a>
-</div>
-
 ## <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> My learning:
 
 * [x] BashScript
@@ -176,7 +170,9 @@ ______________________________________________________
 >
 > ###
 > > * Nunca dejes de aprender xD
-> > * +591 79424937 😜
+> > * `+591 79424937` 😜
+>
+> <sub>Datetime..: 14-04-2024 14:10:00</sub>
 > </details>
 
 ___
