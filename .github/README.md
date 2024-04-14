@@ -10,7 +10,7 @@ ______________________________________________________
 -->
 
 <div align="center">
-  <sup name="inicio"> ~ </sup>
+  <sup name="inicio"> ~•~ </sup>
 </div>
 
 <div align="justify">
