@@ -182,6 +182,9 @@ ______________________________________________________
 
 <div align="center">
   <sub>Datetime..: 14-04-2024 14:10:00</sub>
+
+  $${\color{#90EE90}Simply} \space {\color{#383838}The} \space {\color{lightgreen}Best}$$
+  
 </div>
 
 ___
