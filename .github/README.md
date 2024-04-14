@@ -171,6 +171,7 @@ ______________________________________________________
 
 ***
 
+<!--
 > [!CAUTION]
 > <details>
 >  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
@@ -179,6 +180,7 @@ ______________________________________________________
 > > * Nunca dejes de aprender xD
 > > * `+591 79424937` 😜
 > </details>
+-->
 
 > [!CAUTION]
 > <details>
@@ -190,11 +192,10 @@ ______________________________________________________
 > </details>
 
 <div align="center">
-  <sub>Datetime..: 14-04-2024 14:10:00</sub>
-
-  $${\color{#90ee90}Simply} \space {\color{#383838}The} \space {\color{lightgreen}Best}$$
-  
+  <sub><code>Datetime..: 14-04-2024 14:10:00</code></sub>
 </div>
+
+$${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Best}$$
 
 ___
 
