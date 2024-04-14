@@ -74,16 +74,19 @@ ______________________________________________________
 
 <div align="center">
   <br>
-  <a href=https://t.me/SimplyTheBest6>
-    <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram" />
+  <a href="https://t.me/JulioCj7">
+    <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=0088cc" />
   </a>
-  <a href=https://www.facebook.com/SimplyTheBest>
-    <img title="Facebook" src="https://img.shields.io/badge/Fanpage-black?style=flat&logo=Facebook" />
+  <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
+    <img title="WhatsApp" src="https://img.shields.io/badge/Whatsapp-black?style=flat&logo=Whatsapp&logoColor=25D366" />
+  </a>
+  <a href="https://m.facebook.com/SimplyTheBest">
+    <img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
   </a>
   <!--
   <br>
-  <a href="https://www.youtube.com/c/JulioCj7">
-    <img title="YouTube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube" />
+  <a href="https://youtube.com/c/JulioCj7">
+    <img title="YouTube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
   </a>
   -->
 </div>
