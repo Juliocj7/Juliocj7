@@ -9,7 +9,9 @@ ______________________________________________________
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡
 -->
 
-<a name="arriba">~•~</a>
+<div align="center">
+  <p name="inicio"> ~ </p>
+</div>
 
 <div align="justify">
   <details align="center">
@@ -198,8 +200,8 @@ ___
 -->
 
 <div align="center">
-  <a href="#arriba">
-    <code><b> &nbsp;Inicio&nbsp; </b></code>
+  <a href="#inicio">
+    <code><b>🏡 Inicio 🏡</b></code>
   </a>
 </div>
 
