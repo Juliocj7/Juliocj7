@@ -140,6 +140,11 @@ ______________________________________________________
 * [x] Kotlin
 * [ ] Swift
 
+```console
+i'mlove@god2024:~$ printf "$JulioCj7"
+SimplyTheBest
+```
+
 <hr>
 
 <div align="center">
