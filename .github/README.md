@@ -141,7 +141,7 @@ ______________________________________________________
 * [ ] Swift
 
 ```console
-i'mlove@god2024:~$ printf "$JulioCj7"
+i'm@god:~$ printf "$JulioCj7"
 SimplyTheBest
 ```
 
