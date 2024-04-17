@@ -196,9 +196,13 @@ SimplyTheBest
 > > $${\color{#252525}+591} \space {\color{#f85149}79424937}$$
 > </details>
 
-<br>
+<div align="center">
+  <sub>
+    
+  > \~•~ 𝙸 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
 
-$${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Best}$$
+  </sub>
+</div>
 
 ___
 
@@ -220,17 +224,13 @@ ___
 
 <div align="center">
   <a href="#inicio">
-    <code><b>🏡 Inicio 🏡</b></code>
+    <code><b>~•~ 𝙸𝙽𝙸𝙲𝙸𝙾 ~•~</b></code>
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <sub><code>Datetime..: 14-04-2024 14:10:00</code></sub>
-</div>
-
 <!--
+$${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Best}$$
+
 > ## Created by SimplyTheBest
 > 
 > > Datetime..: 04-12-2023 14:30:00
