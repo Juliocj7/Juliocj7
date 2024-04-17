@@ -200,7 +200,7 @@ SimplyTheBest
   </sub>
 </div>
 
-___
+***
 
 <div align="center">
   <a href="#inicio">
@@ -208,10 +208,8 @@ ___
   </a>
 </div>
 
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
-
-https://spotify.link/J6PONa5pRIb
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
