@@ -235,6 +235,12 @@ SimplyTheBest
 <!--
 [![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 
+$${\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{SimplyTheBest}}$$
+
+```math
+\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{SimplyTheBest}
+```
+
 <div align="center">
   <kbd>
 
