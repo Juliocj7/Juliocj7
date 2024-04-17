@@ -136,7 +136,7 @@ ______________________________________________________
 > > * [ ] Swift
 
 ```console
-i'm@god:~$ printf "$JulioCj7"
+i'm@god:~$ echo "$JulioCj7"
 SimplyTheBest
 ```
 
@@ -183,7 +183,7 @@ SimplyTheBest
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp;𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</summary>
+>  <summary>&nbsp;𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 <code>𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</code></summary>
 >
 > ###
 > $${\color{#656565}𝙽𝚞𝚗𝚌𝚊} \space {\color{#656565}𝚍𝚎𝚓𝚎𝚜} \space {\color{#656565}𝚍𝚎} \space {\color{#656565}𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛} \space {\color{#252525}𝚡𝙳}$$
@@ -206,27 +206,11 @@ ___
   </a>
 </div>
 
-<!--
 
-<div align="center">
-  <p align="center">
-    <kbd>
-      <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
-        <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog">
-        <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
-      </a>
-    </kbd>
-  </p>
-</div>
--->
-
-<!--
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
--->
+
 
 <!--
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
@@ -235,10 +219,19 @@ ___
 -->
 
 <!--
-<p align=center>
-<img src=https://img.shields.io/badge/-G?style=plastic&label=~%20%20SimplyTheBest%20%20~&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000&link=https://github.com/Juliocj7&link=https://github.com/Juliocj7 />
-</p>
+<div align="center">
+  <p align="center">
+    <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
+      <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog">
+      <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
+-->
 
+<!--
 [![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 
 <div align="center">
