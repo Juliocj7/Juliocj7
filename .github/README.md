@@ -79,12 +79,10 @@ ______________________________________________________
   <a href="https://m.facebook.com/SimplyTheBest">
     <img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
   </a>
-  <!--
   <br>
   <a href="https://youtube.com/c/JulioCj7">
     <img title="YouTube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
   </a>
-  -->
 </div>
 
 <br>
@@ -120,21 +118,22 @@ ______________________________________________________
 [![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
 
-### <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> My learning:
-
-* [x] BashScript
-* [x] Python 
-* [x] PHP
-* [x] HTML5
-* [x] CSS
-* [x] JavaScript
-* [x] C && C++
-* [x] Rust
-* [x] Go
-* [x] Perl
-* [x] Java
-* [x] Kotlin
-* [ ] Swift
+> [!CAUTION]
+> > <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:
+>
+> > * [x] BashScript
+> > * [x] Python 
+> > * [x] PHP
+> > * [x] HTML5
+> > * [x] CSS
+> > * [x] JavaScript
+> > * [x] C && C++
+> > * [x] Rust
+> > * [x] Go
+> > * [x] Perl
+> > * [x] Java
+> > * [x] Kotlin
+> > * [ ] Swift
 
 ```console
 i'm@god:~$ printf "$JulioCj7"
