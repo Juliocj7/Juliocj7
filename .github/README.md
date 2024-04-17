@@ -28,10 +28,6 @@ ______________________________________________________
           </b>
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
-      <!--
-      <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=17&color=eaeaea&center=true&width=410&height=45&lines=¡¡¡+Nunca+dejes+de+aprender+!!!" />
-      <br>
-      -->
       <a href="#--------">
         <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
       </a>
@@ -124,7 +120,7 @@ ______________________________________________________
 [![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
 
-## <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> My learning:
+### <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> My learning:
 
 * [x] BashScript
 * [x] Python 
@@ -176,17 +172,6 @@ SimplyTheBest
 
 ***
 
-<!--
-> [!CAUTION]
-> <details>
->  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
->
-> ###
-> > * Nunca dejes de aprender xD
-> > * `+591 79424937` 😜
-> </details>
--->
-
 > [!CAUTION]
 > <details>
 >  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
@@ -199,7 +184,7 @@ SimplyTheBest
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</summary>
+>  <summary>&nbsp;𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</summary>
 >
 > ###
 > $${\color{#656565}𝙽𝚞𝚗𝚌𝚊} \space {\color{#656565}𝚍𝚎𝚓𝚎𝚜} \space {\color{#656565}𝚍𝚎} \space {\color{#656565}𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛} \space {\color{#252525}𝚡𝙳}$$
@@ -209,29 +194,12 @@ SimplyTheBest
 
 <div align="center">
   <sub>
-    
-  > \~•~ 𝙸 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
 
+  > \~•~ 𝙸 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
   </sub>
 </div>
 
 ___
-
-<!--
-<div align="left">
-  <h4>
-
-**[`             Inicio              `](#)**
-
-  </h4>
-</div>
-
-<div align="center">
-
-##### **[`             Inicio              `](#)**
-
-</div>
--->
 
 <div align="center">
   <a href="#inicio">
@@ -240,23 +208,6 @@ ___
 </div>
 
 <!--
-$${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Best}$$
-
-> ## Created by SimplyTheBest
-> 
-> > Datetime..: 04-12-2023 14:30:00
->
-> > ¡¡¡ Nunca dejes de aprender xD !!!
->
-> > +591 79424937 😜
-
-<div align="center">
-  <p align="center">
-    <kbd>
-      ¡¡¡ Nunca dejes de aprender !!!
-    </kbd>
-  </p>
-</div>
 
 <div align="center">
   <p align="center">
@@ -291,5 +242,15 @@ $${\color{#f85149}Simply} \space {\color{#383838}The} \space {\color{#f85149}Bes
 
 [![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 
-##### <p align="center">- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ ` < -</p>
+<div align="center">
+  <kbd>
+
+$${\color{#f85149}𝚂𝚒𝚖𝚙𝚕𝚢} \space {\color{#383838}𝚃𝚑𝚎} \space {\color{#f85149}𝙱𝚎𝚜𝚝}$$
+  </kbd>
+</div>
+
+<div align="center">
+
+##### **[`             Inicio              `](#)**
+</div>
 -->
