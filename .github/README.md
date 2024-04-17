@@ -192,8 +192,8 @@ SimplyTheBest
 >  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
 >
 > ###
-> > $${\color{#656565}Nunca} \space {\color{#656565}dejes} \space {\color{#656565}de} \space {\color{#656565}aprender} \space {\color{#252525}xD}$$
-> > $${\color{#252525}+591} \space {\color{#f85149}79424937}$$
+> > $${\color{#656565}𝙽𝚞𝚗𝚌𝚊} \space {\color{#656565}𝚍𝚎𝚓𝚎𝚜} \space {\color{#656565}𝚍𝚎} \space {\color{#656565}𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛} \space {\color{#252525}𝚡𝙳}$$
+> > $${\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
 > </details>
 
 <div align="center">
