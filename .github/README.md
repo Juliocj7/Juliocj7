@@ -199,7 +199,7 @@ SimplyTheBest
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
+>  <summary>𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</summary>
 >
 > ###
 > $${\color{#656565}𝙽𝚞𝚗𝚌𝚊} \space {\color{#656565}𝚍𝚎𝚓𝚎𝚜} \space {\color{#656565}𝚍𝚎} \space {\color{#656565}𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛} \space {\color{#252525}𝚡𝙳}$$
