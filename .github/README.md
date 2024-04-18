@@ -244,7 +244,7 @@ $${\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \te
 <div align="center">
   <kbd>
 
-$${\color{#f85149}𝚂𝚒𝚖𝚙𝚕𝚢} \space {\color{#383838}𝚃𝚑𝚎} \space {\color{#f85149}𝙱𝚎𝚜𝚝}$$
+$${\color{#f85149}⁂ 𝚂𝚒𝚖𝚙𝚕𝚢} \space {\color{#383838}𝚃𝚑𝚎} \space {\color{#f85149}𝙱𝚎𝚜𝚝 ⁂}$$
   </kbd>
 </div>
 
