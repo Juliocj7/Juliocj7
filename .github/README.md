@@ -238,7 +238,7 @@ SimplyTheBest
 $${\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{SimplyTheBest}}$$
 
 ```math
-\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{SimplyTheBest 👾}
+\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{👾SimplyTheBest👾}
 ```
 
 <div align="center">
