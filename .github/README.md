@@ -212,6 +212,8 @@ SimplyTheBest
 </div>
 
 <!--
+<a href="https://stardev.io/developers/Juliocj7"><img alt="Check out Juliocj7's profile on stardev.io" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
