@@ -118,6 +118,9 @@ https://gist.github.com/rxaviers/7360908
   <a href="https://github.com/Juliocj7/MsfCj7">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
   </a>
+    <a href="https://github.com/Juliocj7/FlagCaptureCj7">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  </a>
 </div>
 
 ![Snake animation](https://github.com/JulioCj7/JulioCj7/blob/output/github-contribution-grid-snake-dark.svg)
