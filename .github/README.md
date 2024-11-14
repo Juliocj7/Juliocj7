@@ -9,6 +9,12 @@ ______________________________________________________
 ♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡◇♧♤♡
 -->
 
+<!--
+[!] 𝚁𝚎𝚏𝚎𝚛𝚎𝚗𝚌𝚒𝚊𝚜 :
+https://github.com/Ileriayo/markdown-badges
+https://gist.github.com/rxaviers/7360908
+-->
+
 <div align="center">
   <sup name="inicio">
 
@@ -25,9 +31,9 @@ ______________________________________________________
       <p align="center">
         <samp>
           <b>
-              Proyecto privado y personal,
+              𝙿𝚛𝚘𝚢𝚎𝚌𝚝𝚘 𝚙𝚛𝚒𝚟𝚊𝚍𝚘 𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕,
           <br>
-              así que puedes mirar pero no copiar inmundo animal xD
+              𝚊𝚜í 𝚚𝚞𝚎 𝚙𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 𝚌𝚘𝚙𝚒𝚊𝚛 𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
           </b>
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
@@ -37,7 +43,7 @@ ______________________________________________________
       <br>
       <samp>
           <b>
-              ~ simply the best my friend ~
+              ~ 𝚜𝚒𝚖𝚙𝚕𝚢 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍 ~
           </b>
       </samp>
       <br>
@@ -52,7 +58,7 @@ ______________________________________________________
 <div align="center">
   <a href="#--------">
     <!-- width="100%" -->
-    <img title="Mi Banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95" />
+    <img title="Mi banner" src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="280" height="95" />
   </a>
 </div>
 
@@ -122,7 +128,7 @@ ______________________________________________________
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <img title="Kitty xD" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <img title="kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] BashScript
 > > * [x] Python 
@@ -137,6 +143,11 @@ ______________________________________________________
 > > * [x] Java
 > > * [x] Kotlin
 > > * [ ] Swift
+
+<!--
+𝚒'𝚖@𝚐𝚘𝚍:~$ 𝚎𝚌𝚑𝚘 "$𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽"
+𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
+-->
 
 ```console
 i'm@god:~$ echo "$JulioCj7"
@@ -215,7 +226,7 @@ SimplyTheBest
 
 <div align="center">
   <a href="#inicio">
-    <code><b>~•~ 𝙸𝙽𝙸𝙲𝙸𝙾 ~•~</b></code>
+    <code><b>~•~ 𝚒𝚗𝚒𝚌𝚒𝚘 ~•~</b></code>
   </a>
 </div>
 
