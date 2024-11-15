@@ -197,7 +197,7 @@ i'm@god:~$ echo "$JulioCj7"
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp;𝙴𝚊𝚜𝚝𝚎𝚛 𝚎𝚐𝚐</summary>
+>  <summary>&nbsp; :egg: 𝙴𝚊𝚜𝚝𝚎𝚛 𝚎𝚐𝚐 :egg:</summary>
 >
 > ###
 > $${\color{#353535}𝙰𝚞𝚝𝚑𝚘𝚛..: } \space {\color{#f85149}𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝}$$
