@@ -205,8 +205,6 @@ i'm@god:~$ echo "$JulioCj7"
 > </details>
 > </blockquote>
 
-$${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
-
 <div align="center">
   <sub>
 
@@ -221,6 +219,8 @@ $${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \sp
     <img alt="coding" width="400" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/coderstb.gif" />
   </a>
 </div>
+
+$${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
 
 ***
 
