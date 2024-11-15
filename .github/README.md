@@ -148,6 +148,29 @@ https://gist.github.com/rxaviers/7360908
 > > * [ ] `𝚂𝚠𝚒𝚏𝚝`
 
 <!--
+> [!CAUTION]
+> <blockquote>
+> <details>
+>  <summary>&nbsp; <img title="kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>
+> ###
+> * [x] `𝙱𝚊𝚜𝚑`
+> * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
+> * [x] `𝙿𝙷𝙿`
+> * [x] `𝙷𝚃𝙼𝙻𝟻`
+> * [x] `𝙲𝚂𝚂`
+> * [x] `𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝`
+> * [x] `𝙲, 𝙲++, 𝙲#`
+> * [x] `𝚁𝚞𝚜𝚝`
+> * [x] `𝙶𝚘`
+> * [x] `𝙿𝚎𝚛𝚕`
+> * [x] `𝙹𝚊𝚟𝚊`
+> * [x] `𝙺𝚘𝚝𝚕𝚒𝚗`
+> * [ ] `𝚂𝚠𝚒𝚏𝚝`
+> </details></blockquote>
+-->
+
+<!--
 ```console
 i'm@god:~$ echo "$JulioCj7"
 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
@@ -190,17 +213,6 @@ i'm@god:~$ echo "$JulioCj7"
 
 ***
 
-<!--
-> [!CAUTION]
-> <details>
->  <summary> &nbsp; :waning_crescent_moon: 𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝 </summary>
->
-> ###
-> > $${\color{#656565}𝙽𝚞𝚗𝚌𝚊} \space {\color{#656565}𝚍𝚎𝚓𝚎𝚜} \space {\color{#656565}𝚍𝚎} \space {\color{#656565}𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛} \space {\color{#252525}𝚡𝙳}$$
-> > $${\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
-> </details>
--->
-
 > [!CAUTION]
 > <blockquote>
 > <details>
@@ -212,14 +224,9 @@ i'm@god:~$ echo "$JulioCj7"
 > </details>
 > </blockquote>
 
-<div align="center">
-  <sub>
-
-  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
-  </sub>
-</div>
-
 ***
+
+$${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
 
 <div align="center">
   <a href="#--------">
@@ -227,7 +234,14 @@ i'm@god:~$ echo "$JulioCj7"
   </a>
 </div>
 
-$${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
+<br>
+
+<div align="center">
+  <sub>
+
+  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
+  </sub>
+</div>
 
 ***
 
