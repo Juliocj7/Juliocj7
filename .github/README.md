@@ -171,7 +171,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="SimplyTheBest" src="https://readme-typing-svg.herokuapp.com?color=87ff00&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
+    <img alt="SimplyTheBest" src="https://readme-typing-svg.herokuapp.com?color=353535&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
   </a>
 </div>
 
@@ -200,7 +200,7 @@ i'm@god:~$ echo "$JulioCj7"
 >  <summary>&nbsp;𝙲𝚛𝚎𝚊𝚝𝚎𝚍 𝙱𝚢 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝</summary>
 >
 > ###
-> $${\color{#87ff00}𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙: } \space {\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
+> $${\color{#454545}𝙲𝚘𝚗𝚝𝚊𝚌𝚝: } \space {\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
 > </details>
 > </blockquote>
 
