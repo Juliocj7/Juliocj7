@@ -180,6 +180,13 @@ i'm@god:~$ echo "$JulioCj7"
 𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
 ```
 
+<div align="center">
+  <sub>
+
+  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
+  </sub>
+</div>
+
 <hr>
 
 <div align="center">
@@ -225,13 +232,17 @@ i'm@god:~$ echo "$JulioCj7"
 ***
 
 <!--
-Nunca dejes de aprender, porque el crecimiento no tiene límites y el éxito es el reflejo de tu curiosidad
-
-Nunca dejes de aprender, porque cada paso que das hacia el conocimiento es un paso más cerca de tu mejor versión
+$${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
 -->
 
+<div align="center">
+  <a href="#--------">
+    <img alt="coding" width="400" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/coderstb.gif" />
+  </a>
+</div>  
+
 <!--
-$${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
+𝙽𝚞𝚗𝚌𝚊 𝚍𝚎𝚓𝚎𝚜 𝚍𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛, 𝚙𝚘𝚛𝚚𝚞𝚎 𝚌𝚊𝚍𝚊 𝚙𝚊𝚜𝚘 𝚚𝚞𝚎 𝚍𝚊𝚜 𝚑𝚊𝚌𝚒𝚊 𝚎𝚕 𝚌𝚘𝚗𝚘𝚌𝚒𝚖𝚒𝚎𝚗𝚝𝚘 𝚎𝚜 𝚞𝚗 𝚙𝚊𝚜𝚘 𝚖𝚊𝚜 𝚌𝚎𝚛𝚌𝚊 𝚍𝚎 𝚝𝚞 𝚖𝚎𝚓𝚘𝚛 𝚟𝚎𝚛𝚜𝚒𝚘𝚗.
 -->
 
 $$
@@ -248,26 +259,11 @@ $$
 \textcolor{#252525}{\_{𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽}} \space \textcolor{#202020}{\_{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}
 $$
 
-<div align="center">
-  <a href="#--------">
-    <img alt="coding" width="400" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/coderstb.gif" />
-  </a>
-</div>
-
-<br>
-
 <!--
 ```math
 \textcolor{#353535}{_{𝙲𝚘𝚗𝚝𝚊𝚌𝚝: }} \quad \textcolor{#252525}{_{+𝟻𝟿𝟷}} \space \textcolor{#f85149}{_{𝟽𝟿𝟺𝟸𝟿𝟿𝟹𝟽}}
 ```
 -->
-
-<div align="center">
-  <sub>
-
-  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
-  </sub>
-</div>
 
 ***
 
