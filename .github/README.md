@@ -258,6 +258,15 @@ $$
 </div>
 
 <!--
+<details>
+  <summary>
+    <h6> SimplyTheBest </h6>
+  </summary>
+
+----
+
+</details>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=90&section=footer)
 
 <a href="https://stardev.io/developers/Juliocj7"><img alt="Check out Juliocj7's profile on stardev.io" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
