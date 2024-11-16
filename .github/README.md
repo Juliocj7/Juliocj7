@@ -228,6 +228,12 @@ i'm@god:~$ echo "$JulioCj7"
 
 $${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
 
+<!--
+$$
+\textcolor{#353535}{\_{𝙲𝚘𝚗𝚝𝚊𝚌𝚝: }} \quad \textcolor{#252525}{\_{+𝟻𝟿𝟷}} \quad \textcolor{#f85149}{\_{𝟽𝟿𝟺𝟸𝟿𝟿𝟹𝟽}}
+$$
+-->
+
 <div align="center">
   <a href="#--------">
     <img alt="coding" width="400" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/coderstb.gif" />
