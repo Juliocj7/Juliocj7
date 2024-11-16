@@ -224,13 +224,20 @@ i'm@god:~$ echo "$JulioCj7"
 
 ***
 
-$${\color{#202020}!!!} \space {\color{#333}Nunca} \space {\color{#333}dejes} \space {\color{#333}de} \space {\color{#333}aprender} \space {\color{#202020}!!!}$$
+<!--
+Nunca dejes de aprender, porque el crecimiento no tiene límites y el éxito es el reflejo de tu curiosidad
+
+Nunca dejes de aprender, porque cada paso que das hacia el conocimiento es un paso más cerca de tu mejor versión
+-->
 
 <!--
+$${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
+
 $$
-\textcolor{#353535}{\_{𝙲𝚘𝚗𝚝𝚊𝚌𝚝: }} \quad \textcolor{#252525}{\_{+𝟻𝟿𝟷}} \quad \textcolor{#f85149}{\_{𝟽𝟿𝟺𝟸𝟿𝟿𝟹𝟽}}
+\textcolor{#353535}{\_{𝙽𝚞𝚗𝚌𝚊 𝚍𝚎𝚓𝚎𝚜 𝚍𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛, 𝚙𝚘𝚛𝚚𝚞𝚎 𝚎𝚕 𝚌𝚛𝚎𝚌𝚒𝚖𝚒𝚎𝚗𝚝𝚘 𝚗𝚘 𝚝𝚒𝚎𝚗𝚎 𝚕í𝚖𝚒𝚝𝚎𝚜 𝚢 𝚎𝚕 é𝚡𝚒𝚝𝚘 𝚎𝚜 𝚎𝚕 𝚛𝚎𝚏𝚕𝚎𝚓𝚘 𝚍𝚎 𝚝𝚞 𝚌𝚞𝚛𝚒𝚘𝚜𝚒𝚍𝚊𝚍}} \space \textcolor{#252525}{\_{JulioCj7}} \space \textcolor{#202020}{\_{¡𝚞𝚗𝚒𝚌𝚘𝚍𝚎𝟸𝚊𝚜𝚌𝚒𝚒 \space!}}
 $$
 -->
+
 
 <div align="center">
   <a href="#--------">
@@ -239,6 +246,12 @@ $$
 </div>
 
 <br>
+
+<!--
+```math
+\textcolor{#353535}{_{𝙲𝚘𝚗𝚝𝚊𝚌𝚝: }} \quad \textcolor{#252525}{_{+𝟻𝟿𝟷}} \space \textcolor{#f85149}{_{𝟽𝟿𝟺𝟸𝟿𝟿𝟹𝟽}}
+```
+-->
 
 <div align="center">
   <sub>
@@ -291,19 +304,6 @@ $$
 
 <!--
 [![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
-
-$${\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{SimplyTheBest}}$$
-
-```math
-\color{yellow} Julio = \textcolor{blue}{Cj7} \mathbin{\textcolor{red}{-}} \textcolor{green}{👾SimplyTheBest👾}
-```
-
-<div align="center">
-  <kbd>
-
-$${\color{#f85149}⁂ 𝚂𝚒𝚖𝚙𝚕𝚢} \space {\color{#383838}𝚃𝚑𝚎} \space {\color{#f85149}𝙱𝚎𝚜𝚝 ⁂}$$
-  </kbd>
-</div>
 
 <div align="center">
 
