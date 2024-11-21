@@ -101,21 +101,18 @@
 
 <div align="center">
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
+    <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
     <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
-    <img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+    <img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
   <br>
-  <a href="https://github.com/Juliocj7/UtilsCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-  </a>
   <a href="https://github.com/Juliocj7/DarkPhishCj7">
     <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
-  <a href="https://github.com/Juliocj7/CriptoCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <a href="https://github.com/Juliocj7/BinsgenCj7">
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
     <a href="https://github.com/Juliocj7/FlagCaptureCj7">
     <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
