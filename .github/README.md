@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="#--------">
-    <img title="Profile Views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
+    <img title="profile views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
   </a>
   <a href="#--------">
-    <img title="Repo Size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+    <img title="repo sized" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
   </a>
 </div>
 
@@ -95,28 +95,31 @@
 
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img alt="Machine404 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" />
+    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juliocj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010&include_all_commits=true" />
+    <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
+    <img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />
   </a>
   <br>
   <a href="https://github.com/Juliocj7/UtilsCj7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=UtilsCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
   <a href="https://github.com/Juliocj7/DarkPhishCj7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
-  <a href="https://github.com/Juliocj7/CriptoCj7"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
-  </a>
-  <a href="https://github.com/Juliocj7/MsfCj7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=MsfCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+  <a href="https://github.com/Juliocj7/CriptoCj7">
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
     <a href="https://github.com/Juliocj7/FlagCaptureCj7">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />
+    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
 </div>
 
@@ -135,7 +138,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <img title="kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -155,7 +158,7 @@
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <img title="kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary>&nbsp; <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -312,10 +315,7 @@ $$
     </a>
   </p>
 </div>
--->
 
-<!--
-[![Github](https://img.shields.io/badge/-G?style=plastic&label=⸸%20%20SimplyTheBest%20%20⸸&labelColor=FF0000&logo=Github&logoColor=black&color=FF0000)](https://github.com/Juliocj7)
 
 <div align="center">
 
