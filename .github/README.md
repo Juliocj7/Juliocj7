@@ -270,12 +270,12 @@ i'm@god:~$ echo "$JulioCj7"
 
 ```ShellSession
 [𝚒'𝚖@𝚐𝚘𝚍]:~$ 𝚎𝚌𝚑𝚘 "$𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽"
-𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
+𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝           # 𝚍𝚎𝚟
 ```
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=29+de+febrero+de+2000;+++;+++&center=true&font=Quicksand" />
+    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=1.01++³⁶⁵;+++;+++&center=true&font=Quicksand" />
   </a>
 </div>  
 
