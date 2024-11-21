@@ -224,6 +224,10 @@ $$
 $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
 -->
 
+<!--
+while(!(success = try()))
+-->
+
 <div align="center">
   <sub>
 
@@ -323,6 +327,16 @@ i'm@god:~$ echo "$JulioCj7"
     </a>
   </p>
 </div>
+
+<a href="https://github.com/JulioCj7">
+  <table align="right">
+      <tr>
+          <td>
+            👉 &nbsp;&nbsp;exit 0
+          </td>
+      </tr>
+  </table>
+</a>
 
 
 <div align="center">
