@@ -178,26 +178,7 @@
 > </blockquote>
 -->
 
-<!--
-```console
-i'm@god:~$ echo "$JulioCj7"
-𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
-```
--->
-
-```ShellSession
-[𝚒'𝚖@𝚐𝚘𝚍]:~$ 𝚎𝚌𝚑𝚘 "$𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽"
-𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
-```
-
-<div align="center">
-  <sub>
-
-  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
-  </sub>
-</div>
-
-<hr>
+<br>
 
 <div align="center">
   <img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img width=36 alt="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
@@ -214,6 +195,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 ***
 
+<!--
 > [!CAUTION]
 > <blockquote>
 > <details>
@@ -226,6 +208,7 @@ i'm@god:~$ echo "$JulioCj7"
 > </blockquote>
 
 ***
+-->
 
 <!--
 $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
@@ -261,17 +244,36 @@ $$
 ```
 -->
 
+<!--
+```console
+i'm@god:~$ echo "$JulioCj7"
+𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
+```
+-->
+
+```ShellSession
+[𝚒'𝚖@𝚐𝚘𝚍]:~$ 𝚎𝚌𝚑𝚘 "$𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽"
+𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝
+```
+
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=29+de+febrero+de+2000;¡i+rOOck+you!&center=true&font=Quicksand" />
+    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=29+de+febrero+de+2000;+++;+++&center=true&font=Quicksand" />
   </a>
-</div>
+</div>  
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
+<div align="center">
+  <sub>
+
+  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
+  </sub>
+</div>
 
 ***
 
