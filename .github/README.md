@@ -212,20 +212,6 @@ i'm@god:~$ echo "$JulioCj7"
   <img src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img alt="SimplyTheBest" src="https://readme-typing-svg.herokuapp.com?color=353535&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio★Cj7&center=true&font=Josefin%20Slab" />
-  </a>
-</div>
-
-<!--
-![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
--->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
-
 ***
 
 > [!CAUTION]
@@ -274,6 +260,18 @@ $$
 \textcolor{#353535}{_{𝙲𝚘𝚗𝚝𝚊𝚌𝚝: }} \quad \textcolor{#252525}{_{+𝟻𝟿𝟷}} \space \textcolor{#f85149}{_{𝟽𝟿𝟺𝟸𝟿𝟿𝟹𝟽}}
 ```
 -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=29+de+febrero+de+2000;¡i+rOOck+you!&center=true&font=Quicksand" />
+  </a>
+</div>
+
+<!--
+![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
+-->
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
 
 ***
 
