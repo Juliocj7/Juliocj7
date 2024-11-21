@@ -67,10 +67,10 @@
 
 <div align="center">
   <a href="#--------">
-    <img title="profile views" src=https://komarev.com/ghpvc/?username=Juliocj7&color=FF0000&style=plastic />
+    <img title="profile views" src=https://komarev.com/ghpvc/?username=Juliocj7&label=repo%20view&color=FF0000&style=plastic />
   </a>
   <a href="#--------">
-    <img title="repo sized" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=Repo%20Size&color=FF0000&style=plastic />
+    <img title="repo sized" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=repo%20size&color=f00&style=plastic />
   </a>
 </div>
 
@@ -132,8 +132,8 @@
 
 <br>
 
-[![Github](https://img.shields.io/badge/-Github-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
-![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&countColor=%23211F18&style=flat)
+[![Github](https://img.shields.io/badge/-𝙶𝚒𝚝𝚑𝚞𝚋-181717?logo=Github&logoColor=black&color=FF0000&style=flat)](https://github.com/JulioCj7)
+![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
 > > <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
@@ -191,7 +191,7 @@
   <img src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
 </div>
 
-***
+<hr>
 
 <!--
 > [!CAUTION]
@@ -211,6 +211,13 @@
 <!--
 $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
 -->
+
+<div align="center">
+  <sub>
+
+  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
+  </sub>
+</div>
 
 <div align="center">
   <a href="#--------">
@@ -265,13 +272,6 @@ i'm@god:~$ echo "$JulioCj7"
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
 -->
-
-<div align="center">
-  <sub>
-
-  > \~•~ 𝚒 𝚛𝙾𝙾𝚌𝚔 𝚢𝚘𝚞 \~•~
-  </sub>
-</div>
 
 ***
 
