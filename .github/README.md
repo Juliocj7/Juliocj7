@@ -221,10 +221,10 @@ i'm@god:~$ echo "$JulioCj7"
 </div>
 
 <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Simplemente+soy+el+mejor+xD;Simply+The+Best;Julio+Cj7)](https://git.io/typing-svg)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=87ff00&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
 
 ***
 
@@ -293,11 +293,9 @@ $$
 
 </details>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=90&section=footer)
 
-<a href="https://stardev.io/developers/Juliocj7"><img alt="Check out Juliocj7's profile on stardev.io" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=w2us4natw8j68auq9sv2t7xs5&redirect=true)
+<a href="https://stardev.io/developers/Juliocj7">
+  <img alt="check out profile" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
@@ -306,11 +304,11 @@ $$
 
 <!--
 <div align="center">
-  <p align="center">
-    <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="Mail">
+  <p>
+    <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="mail">
       <img src="https://img.shields.io/badge/-Mail-ff4500?style=flat&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://JulioCj7.github.io/projects" target="_blank" title="Blog">
+    <a href="https://JulioCj7.github.io/projects" target="_blank" title="blog">
       <img src="https://img.shields.io/badge/-Projects-3a3a3a?style=flat&logo=github&logoColor=white" />
     </a>
   </p>
