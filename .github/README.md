@@ -136,7 +136,7 @@ $$
 <div align="center">
   <a href="#--------">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-dark.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-best.svg">
       <img alt="snake animation gh-profile" src="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-light.svg">
     </picture>
   </a>
