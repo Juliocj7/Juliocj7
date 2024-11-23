@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"   #! exec every 24h
   workflow_dispatch:
-  push: {branches: ["main"]}
+  #push: {branches: ["main"]}
 
 jobs:
   build:
