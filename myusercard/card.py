@@ -274,7 +274,7 @@ def add_archive():
     Several repositories I have contributed to have since been deleted.
     This function adds them using their last known data
     """
-    with open('cache/repository_archive.txt', 'r') as f:
+    with open('myusercard/cache/repository_archive.txt', 'r') as f:
         data = f.readlines()
     old_data = data
     data = data[7:len(data)-3] # remove the comment block
@@ -293,7 +293,7 @@ def force_close_file(data, cache_comment):
     Forces the file to close, preserving whatever data was written to it
     This is needed because if this function is called, the program would've crashed before the file is properly saved and closed
     """
-    filename = 'cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt'
+    filename = 'myusercard/cache/'+hashlib.sha256(USER_NAME.encode('utf-8')).hexdigest()+'.txt'
     with open(filename, 'w') as f:
         f.writelines(cache_comment)
         f.writelines(data)
