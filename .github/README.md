@@ -219,15 +219,14 @@ $$
 </div>
 -->
 
->
-> <blockquote>
-> <details>
->  <summary>&nbsp; ${\color{#fb00fe}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
-> <a href="#---"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg"><img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" /></picture></a>
->
-> <p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
-> </details>
-> </blockquote>
+<blockquote>
+<details>
+<summary> ${\color{#f544fc}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
+  <br>
+  <a href="#---"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg"><img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" /></picture></a>
+<p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
+</details>
+</blockquote>
 
 <hr>
 
@@ -286,7 +285,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=1.01++³⁶⁵;+++;+++&center=true&font=Quicksand" />
+    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=1.01++³⁶⁵;+++;+++&center=true&font=Varela%20Round" />
   </a>
 </div>  
 
