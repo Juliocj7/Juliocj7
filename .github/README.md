@@ -104,9 +104,9 @@ $$
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true">
       <!--<img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true&hide_title=true" />-->
-      <img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=eee&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
+      <img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=f0f1f2&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
     </picture>
   </a>
 </div>
