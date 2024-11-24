@@ -298,7 +298,7 @@ i'm@god:~$ echo "$JulioCj7"
 [![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)](#---)
 
 <!--
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)](#---)
+[![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=SimplyTheBest&textBg=false&fontColor=333&fontSize=25&animation=blink&desc=i%20rOOck%20you&descSize=15&fontAlign=50&fontAlignY=62&descAlignY=79&section=footer)](#---)
 -->
 
 ***
