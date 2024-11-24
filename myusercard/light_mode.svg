@@ -44,7 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="30" class="keyColor">@SimplyTheBest</tspan>: <tspan class="secretColor">                                   𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓𝟽</tspan>
 <tspan x="370" y="50">——————————————</tspan>
 <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Linux (Artix, Debian), Android</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">24 years, 7 months, 3 days</tspan>
+<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">24 years, 7 months, 4 days</tspan>
 <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">Santa Cruz Institute of Technology</tspan><tspan class="commentColor">     #𝙸𝚃𝚂𝙲</tspan>
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Software Reverse Engineering</tspan><tspan class="commentColor">         #𝚂𝚆𝚁𝙴</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">IntelliJ IDEA 2024.3, VSCode 1.84.0</tspan>
@@ -60,8 +60,8 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="410" class="keyColor">WhatsApp</tspan>: <tspan class="valueColor">+591 79424937</tspan><tspan class="commentColor">     #𝚂𝚕𝚘𝚠 𝚛𝚎𝚙𝚕𝚢</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">————————————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">60</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">60</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,090  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1577</tspan>
-<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">101 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">60,884</tspan> (<tspan class="addColor">71,141++</tspan>, <tspan class="delColor">10,257--</tspan>)
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">60</tspan> {<tspan class="keyColor">Contributed</tspan>: <tspan class="valueColor">60</tspan>}  | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,092  </tspan>| <tspan class="keyColor">Stars</tspan>: <tspan class="valueColor">1577</tspan>
+<tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">101 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">60,883</tspan> (<tspan class="addColor">71,142++</tspan>, <tspan class="delColor">10,259--</tspan>)
 </text>
 
 </svg>
