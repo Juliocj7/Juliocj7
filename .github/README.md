@@ -219,14 +219,17 @@ $$
 </div>
 -->
 
-<blockquote>
 <details>
-<summary> ${\color{#f544fc}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
+  <summary> ${\color{#f544fc}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
   <br>
-  <a href="#---"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg"><img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" /></picture></a>
-<p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
+  <a href="#---">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg">
+      <img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" />
+    </picture>
+  </a>
+  <p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
 </details>
-</blockquote>
 
 <hr>
 
