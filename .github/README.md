@@ -295,10 +295,10 @@ i'm@god:~$ echo "$JulioCj7"
   </a>
 </div>  
 
-![#---](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
+[![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)](#---)
 
 <!--
-![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)](#---)
 -->
 
 ***
