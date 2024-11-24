@@ -56,7 +56,7 @@
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
+      <img alt="banner-01 gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
     </picture>
   </a>
 </div>
@@ -246,7 +246,10 @@ $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space apr
 
 <div align="center">
   <a href="#---">
-    <img alt="coding gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/coderstb.gif" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-01.gif">
+      <img alt="banner-02 gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-04.gif" />
+    </picture>
   </a>
 </div>  
 
@@ -292,7 +295,7 @@ i'm@god:~$ echo "$JulioCj7"
   </a>
 </div>  
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
+![#---](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6&height=120&section=footer)
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=87ff00&height=150&section=footer)
