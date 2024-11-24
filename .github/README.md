@@ -208,6 +208,7 @@ $$
 
 <hr>
 
+<!--
 <div align="center">
   <a href="#---">
     <picture>
@@ -216,31 +217,22 @@ $$
     </picture>
   </a>
 </div>
+-->
+
+>
+> <blockquote>
+> <details>
+>  <summary>&nbsp; ${\color{#fb00fe}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
+> <a href="#---"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg"><img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" /></picture></a>
+>
+> <p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
+> </details>
+> </blockquote>
 
 <hr>
 
 <!--
-> [!CAUTION]
-> <blockquote>
-> <details>
->  <summary>&nbsp; :egg: 𝙴𝚊𝚜𝚝𝚎𝚛 𝚎𝚐𝚐 :egg:</summary>
->
-> ###
-> $${\color{#353535}𝙰𝚞𝚝𝚑𝚘𝚛..: } \space {\color{#f85149}𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝}$$
-> $${\color{#353535}𝙲𝚘𝚗𝚝𝚊𝚌𝚝.: } \space {\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
-> </details>
-> </blockquote>
-
-***
--->
-
-<!--
 $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space aprender} \space {\color{#202020}!}$$
--->
-
-<!--
-while(!(success = try()))
-:(){ :|:& };:  #obfuscate
 -->
 
 <div align="center">
@@ -256,9 +248,7 @@ while(!(success = try()))
   </a>
 </div>  
 
-<!--
-𝙽𝚞𝚗𝚌𝚊 𝚍𝚎𝚓𝚎𝚜 𝚍𝚎 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛, 𝚙𝚘𝚛𝚚𝚞𝚎 𝚌𝚊𝚍𝚊 𝚙𝚊𝚜𝚘 𝚚𝚞𝚎 𝚍𝚊𝚜 𝚑𝚊𝚌𝚒𝚊 𝚎𝚕 𝚌𝚘𝚗𝚘𝚌𝚒𝚖𝚒𝚎𝚗𝚝𝚘 𝚎𝚜 𝚞𝚗 𝚙𝚊𝚜𝚘 𝚖𝚊𝚜 𝚌𝚎𝚛𝚌𝚊 𝚍𝚎 𝚝𝚞 𝚖𝚎𝚓𝚘𝚛 𝚟𝚎𝚛𝚜𝚒𝚘𝚗.
--->
+<!--  while(!(success = try()))  -->
 
 $$
 \textcolor{#454545}{\_{𝙽𝚞𝚗𝚌𝚊 \space 𝚍𝚎𝚓𝚎𝚜 \space 𝚍𝚎 \space 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚛, \space 𝚙𝚘𝚛𝚚𝚞𝚎 \space 𝚎𝚕}}
@@ -273,6 +263,8 @@ $$
 $$
 \textcolor{#252525}{\_{𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽}} \space \textcolor{#202020}{\_{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}
 $$
+
+<!--        :(){ :|:& };:        -->
 
 <!--
 ```math
@@ -321,6 +313,18 @@ i'm@god:~$ echo "$JulioCj7"
 ----
 
 </details>
+
+
+> [!CAUTION]
+> <blockquote>
+> <details>
+>  <summary>&nbsp; :egg: 𝙴𝚊𝚜𝚝𝚎𝚛 𝚎𝚐𝚐 :egg:</summary>
+>
+> ###
+> $${\color{#353535}𝙰𝚞𝚝𝚑𝚘𝚛..: } \space {\color{#f85149}𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝}$$
+> $${\color{#353535}𝙲𝚘𝚗𝚝𝚊𝚌𝚝.: } \space {\color{#252525}+𝟻𝟿𝟷} \space {\color{#f85149}𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}$$
+> </details>
+> </blockquote>
 
 
 <a href="https://stardev.io/developers/Juliocj7">
