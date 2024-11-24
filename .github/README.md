@@ -34,7 +34,7 @@
           </b>
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
-      <a href="#--------">
+      <a href="#---">
         <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
       </a>
       <br>
@@ -44,7 +44,7 @@
           </b>
       </samp>
       <br>
-      <a href="#--------">
+      <a href="#---">
         <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
       </a>
       <br>
@@ -53,10 +53,10 @@
 </div>
 
 <div align="center">
-  <a href="#--------">
+  <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif">
+      <img alt="banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
     </picture>
   </a>
 </div>
@@ -74,11 +74,11 @@ $$
 ---
 
 <div align="center">
-  <a href="#--------">
-    <img title="profile views" src=https://komarev.com/ghpvc/?username=Juliocj7&label=repo%20view&color=FF0000&style=plastic />
+  <a href="#---">
+    <img title="repo view" src=https://komarev.com/ghpvc/?username=Juliocj7&label=repo%20view&color=FF0000&style=plastic />
   </a>
-  <a href="#--------">
-    <img title="repo sized" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=repo%20size&color=f00&style=plastic />
+  <a href="#---">
+    <img title="repo size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=repo%20size&color=f00&style=plastic />
   </a>
 </div>
 
@@ -104,7 +104,7 @@ $$
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <!--<img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true" />-->
-    <img alt="activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
+    <img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
   </a>
 </div>
 
@@ -112,7 +112,7 @@ $$
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
     <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
     <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
-    <img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
   <br>
   <a href="https://github.com/Juliocj7/CriptoCj7">
@@ -134,10 +134,10 @@ $$
 </div>
 
 <div align="center">
-  <a href="#--------">
+  <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-best.svg">
-      <img alt="snake animation gh-profile" src="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-light.svg">
+      <img alt="snake gh-profile" src="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-light.svg" />
     </picture>
   </a>
 </div>
@@ -249,7 +249,7 @@ while(!(success = try()))
 
 <div align="center">
   <a href="#---">
-    <img alt="coding gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/coderstb.gif" />
+    <img alt="coding gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/coderstb.gif" />
   </a>
 </div>  
 
