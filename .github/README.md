@@ -151,7 +151,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -171,7 +171,7 @@ $$
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/prettkitty1.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary>&nbsp; <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -288,7 +288,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=1.01++³⁶⁵;+++;+++&center=true&font=Varela%20Round" />
+    <img alt="typing text" src="https://readme-typing-svg.herokuapp.com?color=454545&lines=1.01++³⁶⁵;+++;+++&center=true&font=Varela%20Round&size=15" />
   </a>
 </div>  
 
