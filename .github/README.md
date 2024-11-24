@@ -205,6 +205,17 @@ $$
 
 <hr>
 
+<div align="center">
+  <a href="#---">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg">
+      <img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" />
+    </picture>
+  </a>
+</div>
+
+<hr>
+
 <!--
 > [!CAUTION]
 > <blockquote>
@@ -237,8 +248,8 @@ while(!(success = try()))
 </div>
 
 <div align="center">
-  <a href="#--------">
-    <img alt="coding" width="400" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/coderstb.gif" />
+  <a href="#---">
+    <img alt="coding gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/coderstb.gif" />
   </a>
 </div>  
 
