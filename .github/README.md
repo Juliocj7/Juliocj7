@@ -114,8 +114,8 @@ $$
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-      <!--<img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=666&title_color=777&bg_color=f0f1f2" />-->
+      <!--<img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
+      <img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
 </div>
