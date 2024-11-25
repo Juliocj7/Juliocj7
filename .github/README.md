@@ -123,27 +123,30 @@ $$
   <a href="https://github.com/Juliocj7/CriptoCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <img alt="top repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+      <img alt="top-repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
   <a href="https://github.com/Juliocj7/BinsgenCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <img alt="top repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+      <img alt="top-repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
   <a href="https://github.com/Juliocj7/DarkPhishCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <img alt="top repo 3" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+      <img alt="top-repo 3" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
   <a href="https://github.com/Juliocj7/FlagCaptureCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <img alt="top repo 4" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+      <img alt="top-repo 4" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
+</div>
+
+<div align="center">
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-best.svg">
@@ -158,7 +161,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="25" height="25" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -178,7 +181,7 @@ $$
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <img title="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="20" height="20" /> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -201,16 +204,16 @@ $$
 <br>
 
 <div align="center">
-  <img width=36 alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img width=36 alt="Node.js" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img width=36 alt="Java" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img width=36 alt="HTML5" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img width=36 alt="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img width=36 alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+  <img alt="Python" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img alt="Node.js" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img alt="Java" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img alt="HTML5" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img alt="CSS3" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img alt="JavaScript" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
   <br>
   <br>
-  <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64">
-  <img  src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
-  <img  src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff">
-  <img  src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu">
-  <img src="https://img.shields.io/badge/Alpine_Linux-black?style=flat&logo=alpine-linux&logoColor=38b6e0">
-  <img src="https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=Arch-Linux&logoColor=d23ce6">
-  <img src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
+  <img alt="Android" src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
+  <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu">
+  <img alt="Alpine" src="https://img.shields.io/badge/Alpine_Linux-black?style=flat&logo=alpine-linux&logoColor=38b6e0">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=Arch-Linux&logoColor=d23ce6">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
 </div>
 
 <hr>
