@@ -236,7 +236,7 @@ $$
       <img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" />
     </picture>
   </a>
-  <p align="center"> ${\color{#252525}}^{\color{#252525}\text{¡𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝!}}$ </p>
+  <p align="center"> $^{\color{#252525}\text{𝚞𝚜𝚎𝚛:}} \space ^{\color{#4e4e4e}\text{¡𝟶𝚡𝟷𝟹𝟹𝟽!}}$ </p>
 </details>
 
 <hr>
