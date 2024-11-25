@@ -60,7 +60,7 @@
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="01 banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
+      <img alt="01-banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
     </picture>
   </a>
 </div>
@@ -258,7 +258,7 @@ $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space apr
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-01.gif">
-      <img alt="banner-02 gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-04.gif" />
+      <img alt="02-banner gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-04.gif" />
     </picture>
   </a>
 </div>  
@@ -315,13 +315,13 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="center">
   <a href="#inicio">
-    <code><b>𝚂𝚌𝚛𝚘𝚕𝚕 𝙱𝚊𝚌𝚔</b></code>
+    <code><b>𝚂𝚌𝚛𝚘𝚕𝚕𝙱𝚊𝚌𝚔</b></code>
   </a>
 </div>
 
 <div align="right">
   <a href="#inicio">
-    <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="35" height="35" />
+    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="35" height="35" />
 </div>
 
 <!--
