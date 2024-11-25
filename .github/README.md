@@ -40,7 +40,7 @@
       <a href="#---">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
-        <img alt="easter egg" src="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/logo.png">
+        <img title="" src="">
         </picture>
       </a>
       <samp>
