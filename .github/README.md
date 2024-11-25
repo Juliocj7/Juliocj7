@@ -7,7 +7,7 @@
 /*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/-->
 
 <!--
-  [¡𝚁𝙴𝙵𝙴𝚁𝙴𝙽𝙲𝙴!] 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜:
+  [¡𝚁𝙴𝙵𝙴𝚁𝙴𝙽𝙲𝙴!] ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜:
   https://github.com/Ileriayo/markdown-badges
   https://gist.github.com/rxaviers/7360908
 -->
@@ -21,36 +21,35 @@
 
 <div align="justify">
   <details align="center">
-    <!--<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>-->
     <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
-      <br>
-      <p align="left"><strong><samp>「</samp></strong></p>
-      <p align="center">
-        <samp>
-          <b>
-              𝙿𝚛𝚘𝚢𝚎𝚌𝚝𝚘 𝚙𝚛𝚒𝚟𝚊𝚍𝚘 𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕,
-          <br>
-              𝚊𝚜í 𝚚𝚞𝚎 𝚙𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 𝚌𝚘𝚙𝚒𝚊𝚛 𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
-          </b>
-        </samp>
+    <br>
+    <p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp>
+        <b>
+            𝙿𝚛𝚘𝚢𝚎𝚌𝚝𝚘 𝚙𝚛𝚒𝚟𝚊𝚍𝚘 𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕,
+        <br>
+            𝚊𝚜í 𝚚𝚞𝚎 𝚙𝚞𝚎𝚍𝚎𝚜 𝚖𝚒𝚛𝚊𝚛 𝚙𝚎𝚛𝚘 𝚗𝚘 𝚌𝚘𝚙𝚒𝚊𝚛 𝚒𝚗𝚖𝚞𝚗𝚍𝚘 𝚊𝚗𝚒𝚖𝚊𝚕 𝚡𝙳
+        </b>
+      </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
       <a href="#---">
-        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
+        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
       </a>
       <a href="#---">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
-        <img title="" src="">
+          <img title="" src="" />
         </picture>
       </a>
       <samp>
-          <b>
-              ~ 𝚜𝚒𝚖𝚙𝚕𝚢 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍 ~
-          </b>
+        <b>
+            ~ 𝚜𝚒𝚖𝚙𝚕𝚢 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍 ~
+        </b>
       </samp>
       <br>
       <a href="#---">
-        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
+        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
       </a>
       <br>
     </p>
