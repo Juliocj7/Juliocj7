@@ -37,7 +37,12 @@
       <a href="#---">
         <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
       </a>
-      <br>
+      <a href="#---">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
+        <img alt="easter egg" src="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/logo.png">
+        </picture>
+      </a>
       <samp>
           <b>
               ~ 𝚜𝚒𝚖𝚙𝚕𝚢 𝚝𝚑𝚎 𝚋𝚎𝚜𝚝 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍 ~
