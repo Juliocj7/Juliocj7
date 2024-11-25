@@ -35,7 +35,7 @@
         </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
       <a href="#---">
-        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
       </a>
       <br>
       <samp>
@@ -45,7 +45,7 @@
       </samp>
       <br>
       <a href="#---">
-        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+        <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
       </a>
       <br>
     </p>
@@ -315,6 +315,16 @@ i'm@god:~$ echo "$JulioCj7"
   <a href="#inicio">
     <code><b>~•~ 𝚒𝚗𝚒𝚌𝚒𝚘 ~•~</b></code>
   </a>
+</div>
+
+<div align="center">
+  <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="25" height="25" />
+  <j>
+  <a href="#inicio">
+    <code><b>𝚒𝚗𝚒𝚌𝚒𝚘</b></code>
+  </a>
+  </j>
+  <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="25" height="25" />
 </div>
 
 <!--
