@@ -39,7 +39,7 @@
       <a href="#---">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/FlagCaptureCj7/blob/main/docs/author.svg">
-          <img title="" src="" />
+          <img title="" alt="" src="" />
         </picture>
       </a>
       <samp>
@@ -60,7 +60,7 @@
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="banner-01 gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
+      <img alt="01 banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
     </picture>
   </a>
 </div>
@@ -73,27 +73,27 @@ $$
 
 <div align="center">
   <a href="#---">
-    <img title="repo view" src=https://komarev.com/ghpvc/?username=Juliocj7&label=repo%20view&color=FF0000&style=plastic />
+    <img alt="repo-view" src=https://komarev.com/ghpvc/?username=Juliocj7&label=repo%20view&color=FF0000&style=plastic />
   </a>
   <a href="#---">
-    <img title="repo size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=repo%20size&color=f00&style=plastic />
+    <img alt="repo-size" src=https://img.shields.io/github/repo-size/Juliocj7/Juliocj7?label=repo%20size&color=f00&style=plastic />
   </a>
 </div>
 
 <div align="center">
   <br>
   <a href="https://t.me/JulioCj7">
-    <img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=0088cc" />
+    <img alt="my telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=0088cc" />
   </a>
   <a href="https://wa.me//+59179424937/?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
-    <img title="WhatsApp" src="https://img.shields.io/badge/Whatsapp-black?style=flat&logo=Whatsapp&logoColor=25D366" />
+    <img alt="my whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=flat&logo=Whatsapp&logoColor=25D366" />
   </a>
   <a href="https://m.facebook.com/SimplyTheBest">
-    <img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
+    <img alt="my facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
   </a>
   <br>
   <a href="https://youtube.com/c/JulioCj7">
-    <img title="YouTube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
+    <img alt="my youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
   </a>
 </div>
 
@@ -103,23 +103,18 @@ $$
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111111&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true">
-      <!--<img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true&hide_title=true" />-->
-      <img alt="gh-activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=f0f1f2&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
+      <!--<img alt="graph gh-activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=111&color=ffffff&line=d4f4fa&point=ff0000&hide_border=true&hide_title=true" />-->
+      <img alt="graph gh-activity" src="https://github-readme-activity-graph.vercel.app/graph?username=Juliocj7&bg_color=f0f1f2&color=888&line=17c6e1&point=915bf1&hide_border=true&hide_title=true" />
     </picture>
   </a>
 </div>
-
-<!--
-𝚅𝚊𝚕𝚞𝚎𝚜 [𝚋𝚐_𝚌𝚘𝚕𝚘𝚛]: 0,ea6161,ffc64d,fffc4d,52fa5a
-0,52fa5a,4dfcff,c64dff
--->
 
 <div align="center">
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
-      <!--<img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
-      <img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=666&title_color=777&bg_color=f0f1f2" />
+      <!--<img alt="stats gh-activity" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
+      <img alt="stats gh-activity" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
 </div>
