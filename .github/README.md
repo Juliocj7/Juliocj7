@@ -313,17 +313,14 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="center">
   <a href="#inicio">
-    <code><b>~•~ 𝚒𝚗𝚒𝚌𝚒𝚘 ~•~</b></code>
+    <code><b>𝚂𝚌𝚛𝚘𝚕𝚕 𝙱𝚊𝚌𝚔</b></code>
   </a>
 </div>
 
-<p align="center">
-  <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" loop="infinite" width="25" height="25" />
+<div align="right">
   <a href="#inicio">
-    <code><b>𝚒𝚗𝚒𝚌𝚒𝚘</b></code>
-  </a>
-  <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="25" height="25" />
-</p>
+    <img title="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="35" height="35" />
+</div>
 
 <!--
 <div align="center">
