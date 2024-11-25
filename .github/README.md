@@ -61,12 +61,6 @@
   </a>
 </div>
 
-<!--
-<div align="center">
-  <p>𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝</p>
-</div>
--->
-
 $$
 \textcolor{#303030}{\_{+𝟻𝟿𝟷}} \space \textcolor{#303030}{\_{𝟽𝟿𝟺𝟸𝟺𝟿𝟹𝟽}} \space \textcolor{#303030}{\_{¡𝚌𝚘𝚗𝚝𝚊𝚌𝚝 \space 𝚖𝚎 \space!}}
 $$
@@ -111,28 +105,65 @@ $$
   </a>
 </div>
 
+<!--
+𝚅𝚊𝚕𝚞𝚎𝚜 [𝚋𝚐_𝚌𝚘𝚕𝚘𝚛]: 0,ea6161,ffc64d,fffc4d,52fa5a
+0,52fa5a,4dfcff,c64dff
+-->
+
 <div align="center">
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
-    <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <!--<img alt="activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />-->
+    <!--<img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=Juliocj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&theme=dark&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
     <img alt="gh-activity stats" src="https://github-readme-stats.vercel.app/api?username=JulioCj7&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&locale=es&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </a>
-  <br>
+</div>
+
+<div align="center">
   <a href="https://github.com/Juliocj7/CriptoCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+      <img alt="top repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+    </picture>
   </a>
+</div>
+
+
+
+<div align="center">
+  <a href="https://github.com/Juliocj7/CriptoCj7">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+      <img alt="top repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+    </picture>
+  </a>
+</div>
+
+<!--
+-->
+
+<div align="center">
   <a href="https://github.com/Juliocj7/BinsgenCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+      <img alt="top repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+    </picture>
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/Juliocj7/DarkPhishCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+      <img alt="top repo 3" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+    </picture>
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/Juliocj7/FlagCaptureCj7">
-    <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=31ff0d&title_color=969696&bg_color=101010" />-->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+      <img alt="top repo 4" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
+    </picture>
   </a>
 </div>
 
@@ -310,6 +341,11 @@ i'm@god:~$ echo "$JulioCj7"
 </div>
 
 <!--
+<div align="center">
+  <p>𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝</p>
+</div>
+
+
 <details>
   <summary>
     <h6> SimplyTheBest </h6>
