@@ -124,36 +124,24 @@ $$
       <img alt="top repo 1" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=CriptoCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Juliocj7/BinsgenCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
       <img alt="top repo 2" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=BinsgenCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Juliocj7/DarkPhishCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
       <img alt="top repo 3" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=DarkPhishCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Juliocj7/FlagCaptureCj7">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&locale=es&hide_border=true&icon_color=000&title_color=444&text_color=454545&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&theme=graywhite">
       <img alt="top repo 4" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
-</div>
-
-<div align="center">
   <a href="#---">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JulioCj7/JulioCj7/blob/output/github-snake-best.svg">
