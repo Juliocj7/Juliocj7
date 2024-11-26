@@ -21,7 +21,7 @@
 
 <div align="justify">
   <details align="center">
-    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7 </summary>
+    <summary>  𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓𝟽 </summary>
     <br>
     <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
