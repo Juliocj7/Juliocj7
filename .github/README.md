@@ -207,13 +207,13 @@ $$
   <img alt="Python" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img alt="Node.js" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img alt="Java" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img alt="HTML5" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img alt="CSS3" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img alt="JavaScript" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
   <br>
   <br>
-  <img alt="Android" src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
-  <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff">
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu">
-  <img alt="Alpine" src="https://img.shields.io/badge/Alpine_Linux-black?style=flat&logo=alpine-linux&logoColor=38b6e0">
-  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=Arch-Linux&logoColor=d23ce6">
-  <img alt="Debian" src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000">
+  <img alt="Android" src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64&label=:&labelColor=222&color=111">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=dede0b&label=:&labelColor=222&color=111">
+  <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff&label=:&labelColor=222&color=111">
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-black?style=flat&logo=ubuntu&logoColor=e0790b&label=:&labelColor=222&color=111">
+  <img alt="Alpine" src="https://img.shields.io/badge/Alpine_Linux-black?style=flat&logo=alpine-linux&logoColor=38b6e0&label=:&labelColor=222&color=111">
+  <img alt="Arch" src="https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=Arch-Linux&logoColor=d23ce6&label=:&labelColor=222&color=111">
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000&label=:&labelColor=222&color=111">
 </div>
 
 <hr>
