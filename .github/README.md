@@ -333,6 +333,9 @@ i'm@god:~$ echo "$JulioCj7"
     <p>
       𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
     </p>
+    <a href="https://stardev.io/developers/Juliocj7">
+      <img alt="check gh-profile" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" />
+    </a>
     
   ----
   ### $\color{red}{Simply\ The\ Best\ JulioCj7!}$
@@ -380,15 +383,9 @@ i'm@god:~$ echo "$JulioCj7"
 
 ##### **[`             Inicio              `](#)**
 </div>
--->
 
-<!--
-<a href="https://stardev.io/developers/Juliocj7">
-  <img alt="check gh-profile" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/g-03.gif)](https://youtu.be/vt5fpE0bzSY)
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
