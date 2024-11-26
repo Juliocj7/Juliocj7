@@ -161,7 +161,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-hikitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -181,7 +181,7 @@ $$
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/kitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-hikitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -310,7 +310,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="right">
   <a href="#inicio">
-    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/scroll-up.gif" width="35" height="35" />
+    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-scrollup.gif" width="35" height="35" />
 </div>
 
 <!--
