@@ -326,18 +326,19 @@ i'm@god:~$ echo "$JulioCj7"
 
 <!--
 <div align="center">
-  <p>𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝</p>
+  <details>
+    <summary>
+      <h6> 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽 </h6>
+    </summary>
+    <p>
+      𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
+    </p>
+    
+  ----
+  ### $\color{red}{Simply\ The\ Best\ JulioCj7!}$
+
+  </details>
 </div>
-
-
-<details>
-  <summary>
-    <h6> SimplyTheBest </h6>
-  </summary>
-
-----
-
-</details>
 
 
 > [!CAUTION]
@@ -352,15 +353,6 @@ i'm@god:~$ echo "$JulioCj7"
 > </blockquote>
 
 
-<a href="https://stardev.io/developers/Juliocj7">
-  <img alt="check out profile" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
-
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
--->
-
-<!--
 <div align="center">
   <p>
     <a href="mailto:SimplyTheBest@gmail.com" target="_blank" title="mail">
@@ -372,6 +364,7 @@ i'm@god:~$ echo "$JulioCj7"
   </p>
 </div>
 
+
 <a href="https://github.com/JulioCj7">
   <table align="right">
       <tr>
@@ -382,12 +375,20 @@ i'm@god:~$ echo "$JulioCj7"
   </table>
 </a>
 
-### $\color{red}{Simply\ The\ Best\ JulioCj7!}$
 
 <div align="center">
 
 ##### **[`             Inicio              `](#)**
 </div>
+-->
+
+<!--
+<a href="https://stardev.io/developers/Juliocj7">
+  <img alt="check gh-profile" src="https://stardev.io/developers/Juliocj7/badge/languages/global.svg" /></a>
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
