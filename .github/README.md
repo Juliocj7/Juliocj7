@@ -92,7 +92,7 @@ $$
     <img alt="my facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
   </a>
   <br>
-  <a href="https://youtube.com/c/JulioCj7">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img alt="my youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
   </a>
 </div>
@@ -375,7 +375,7 @@ i'm@god:~$ echo "$JulioCj7"
 </div>
 
 
-[![Watch the video](https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/g-03.gif)](https://youtu.be/vt5fpE0bzSY)
+[![RickRollxD](https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/g-03.gif)](https://youtu.be/dQw4w9WgXcQ)
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
