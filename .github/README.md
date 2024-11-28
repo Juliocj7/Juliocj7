@@ -34,7 +34,7 @@
       </samp>
       <p align="right"><strong><samp>」</samp></strong></p>
       <a href="#---">
-        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
+        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/rainbowbar2.gif" />
       </a>
       <a href="#---">
         <picture>
@@ -49,7 +49,7 @@
       </samp>
       <br>
       <a href="#---">
-        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/rainbowbar2.gif" />
+        <img src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/rainbowbar2.gif" />
       </a>
       <br>
     </p>
@@ -59,8 +59,8 @@
 <div align="center">
   <a href="#---">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-dark.gif">
-      <img alt="01-banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/banner-light.gif" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/banner-dark.gif">
+      <img alt="01-banner gh-profile" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/banner-light.gif" />
     </picture>
   </a>
 </div>
@@ -161,7 +161,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-hikitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-hikitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -181,7 +181,7 @@ $$
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-hikitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-hikitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -221,7 +221,7 @@ $$
 <details>
   <summary> ${\color{#4e4e4e}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
   <br>
-  <a href="https://juliocj7.github.io/music?play=https://github.com/Juliocj7/Juliocj7/raw/refs/heads/main/assets/audio/0x1337.mp3" target="_blank">
+  <a href="https://juliocj7.github.io/music?play=https://github.com/Juliocj7/Juliocj7/raw/refs/heads/main/assets/music/0x1337.mp3" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/dark_mode.svg">
       <img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" />
@@ -246,8 +246,8 @@ $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space apr
 <div align="center">
   <a href="#---">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-01.gif">
-      <img alt="02-banner gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/imagesgif/g-04.gif" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/assets/image/g-01.gif">
+      <img alt="02-banner gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/assets/image/g-04.gif" />
     </picture>
   </a>
 </div>  
@@ -310,7 +310,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="right">
   <a href="#">
-    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-scrollup.gif" width="35" height="35" />
+    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
 </div>
 
 <!-- ¡𝚂𝚞𝚍𝚘 𝚖𝚊𝚜𝚘𝚚𝚞𝚒𝚜𝚝𝚊!
