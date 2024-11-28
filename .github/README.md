@@ -309,7 +309,7 @@ i'm@god:~$ echo "$JulioCj7"
 </div>
 
 <div align="right">
-  <a href="#inicio">
+  <a href="#">
     <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/imagesgif/i-scrollup.gif" width="35" height="35" />
 </div>
 
