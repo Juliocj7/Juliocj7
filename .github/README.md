@@ -311,6 +311,7 @@ i'm@god:~$ echo "$JulioCj7"
 <div align="right">
   <a href="#">
     <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
+  </a>
 </div>
 
 <!-- ¡𝚂𝚞𝚍𝚘 𝚖𝚊𝚜𝚘𝚚𝚞𝚒𝚜𝚝𝚊!
@@ -318,7 +319,7 @@ i'm@god:~$ echo "$JulioCj7"
 <div align="center">
   <details>
     <summary>
-      <h6> 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽 </h6>
+      <h6> &#128293; 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽 &#128293; </h6>
     </summary>
     <p>
       𝚂 &nbsp;𝚒 &nbsp;𝚖 &nbsp;𝚙 &nbsp;𝚕 &nbsp;𝚢 &nbsp&nbsp;𝚃 &nbsp;𝚑 &nbsp;𝚎 &nbsp;&nbsp;𝙱 &nbsp;𝚎 &nbsp;𝚜 &nbsp;𝚝
