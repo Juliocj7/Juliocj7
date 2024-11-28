@@ -13,7 +13,7 @@
 -->
 
 <div align="center">
-  <sup name="inicio">
+  <sup id="inicio">
 
   > \~•~
   </sup>
