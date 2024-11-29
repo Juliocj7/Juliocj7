@@ -161,7 +161,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > &nbsp;<a href="#---"><img alt="i-techman" src="assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > &nbsp;<a href="#---"><img alt="i-techman" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
@@ -180,7 +180,7 @@ $$
 > [!CAUTION]
 > <blockquote>
 > <details>
->  <summary>&nbsp; <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-hikitty.png" width="20" height="20" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :</summary>
+>  <summary> &nbsp;<a href="#---"><img alt="i-techman" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 : </summary>
 >
 > ###
 > * [x] `𝙱𝚊𝚜𝚑`
@@ -202,7 +202,7 @@ $$
 <br>
 
 <div align="center">
-  <img alt="Python" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img alt="Node.js" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img alt="Java" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img alt="HTML5" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img alt="CSS3" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img alt="JavaScript" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+  <img alt="Python" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img alt="NodeJS" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img alt="Java" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img alt="HTML5" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img alt="CSS3" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img alt="JavaScript" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
   <br>
   <br>
   <img alt="Android" src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64&label=:&labelColor=222&color=111">
@@ -308,7 +308,7 @@ i'm@god:~$ echo "$JulioCj7"
 
 <div align="right">
   <a href="#">
-    <img alt="scroll-up" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
+    <img alt="i-scrollup" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-scrollup.gif" width="35" height="35" />
   </a>
 </div>
 
