@@ -387,3 +387,16 @@ i'm@god:~$ echo "$JulioCj7"
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
+
+
+## Custom Properties
+
+Aquí puedes personalizar las propiedades del proyecto según tus necesidades. A continuación, se listan las opciones disponibles:
+
+- **`property_name_1`**: Descripción de lo que hace.
+  - Valores posibles: `value1`, `value2`.
+  - Ejemplo de uso: `property_name_1=value1`.
+
+- **`property_name_2`**: Descripción de otra propiedad.
+  - Valores posibles: `true`, `false`.
+  - Ejemplo de uso: `property_name_2=true`.
