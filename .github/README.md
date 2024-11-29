@@ -161,7 +161,7 @@ $$
 ![](https://api.visitorbadge.io/api/VisitorHit?user=Juliocj7&repo=github-visitors-badge&label=𝚟𝚒𝚎𝚠𝚜&labelColor=%23333&countColor=%23211F18&style=flat)
 
 > [!CAUTION]
-> > <a href="#---"><img alt="icon kitty" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/main/assets/image/i-hikitty.png" width="25" height="25" /></a> 𝙼𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
+> > &nbsp;<a href="#---"><img alt="i-techman" src="assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚖𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 :
 >
 > > * [x] `𝙱𝚊𝚜𝚑`
 > > * [x] `𝙿𝚢𝚝𝚑𝚘𝚗` 
