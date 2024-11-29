@@ -8,6 +8,7 @@
 
 <!--
   [¡𝚁𝙴𝙵𝙴𝚁𝙴𝙽𝙲𝙴!] ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ <𝚌𝚘𝚍𝚎𝚛𝚜/> 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜:
+  https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
   https://github.com/Ileriayo/markdown-badges
   https://gist.github.com/rxaviers/7360908
 -->
