@@ -226,7 +226,7 @@ $$
       <img alt="card gh-profile" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/myusercard/light_mode.svg" />
     </picture>
   </a>
-  <p align="center"> $^{\color{#252525}\text{𝚞𝚜𝚎𝚛:}} \space ^{\color{#4e4e4e}\text{¡𝟶𝚡𝟷𝟹𝟹𝟽!}}$ </p>
+  <p align="center"><img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /> $^{\color{#252525}\text{𝚞𝚜𝚎𝚛:}} \space ^{\color{#4e4e4e}\text{¡𝟶𝚡𝟷𝟹𝟹𝟽!}}$ <img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /></p>
 </details>
 
 <hr>
