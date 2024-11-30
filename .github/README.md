@@ -81,6 +81,7 @@ $$
   </a>
 </div>
 
+<!--
 <br>
 
 <div align="center">
@@ -88,6 +89,7 @@ $$
 [![snake-gh-profile](https://github.com/JulioCj7/JulioCj7/workflows/snake-gh-profile/badge.svg)](https://github.com/JulioCj7/Juliocj7/actions)[![card-gh-profile](https://github.com/JulioCj7/JulioCj7/workflows/card-gh-profile/badge.svg)](https://github.com/JulioCj7/Juliocj7/actions)
 
 </div>
+-->
 
 <div align="center">
   <br>
