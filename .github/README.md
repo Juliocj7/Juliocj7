@@ -94,17 +94,17 @@ $$
 <div align="center">
   <br>
   <a href="https://t.me//JulioCj7">
-    <img alt="my telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=0088cc" />
+    <img alt="telegram" src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=00d7ff&label=:&labelColor=222&color=111" />
   </a>
   <a href="https://wa.me//+59179424937?text=JulioCj7%20%F0%9F%92%A3%20SimplyTheBest">
-    <img alt="my whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=flat&logo=Whatsapp&logoColor=25D366" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Whatsapp-black?style=flat&logo=whatsapp&logoColor=afff00&label=:&labelColor=222&color=111" />
   </a>
   <a href="https://fb.com//dimmuborgir">
-    <img alt="my facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=Facebook&logoColor=2b5fcc" />
+    <img alt="facebook" src="https://img.shields.io/badge/Facebook-black?style=flat&logo=facebook&logoColor=0087ff&label=:&labelColor=222&color=111" />
   </a>
   <br>
   <a href="https://youtu.be//dQw4w9WgXcQ">
-    <img alt="my youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
+    <img alt="youtube" src="https://img.shields.io/badge/YouTube-JulioCj7-red?style=social&logo=Youtube&logoColor=ff0000" />
   </a>
 </div>
 
