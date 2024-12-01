@@ -212,6 +212,8 @@ $$
 
 <br>
 
+<div align="center">
+
 [![](https://skillicons.dev/icons?i=git,github,html,css,js,ts&
 )](https://skillicons.dev)
 
@@ -219,15 +221,17 @@ $$
 
 [![](https://skillicons.dev/icons?i=androidstudio,vscode,idea,neovim,linux)](https://skillicons.dev)
 
+</div>
+
 <!--
 <div align="center">
   <img alt="Python" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"> <img alt="NodeJS" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"><img alt="Java" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"><img alt="HTML5" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"><img alt="CSS3" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"><img alt="JavaScript" width=36 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg">
+  <br>
   <br>
 </div>
 -->
 
 <div align="center">
-  <br>
   <img alt="Android" src="https://img.shields.io/badge/Android-black?style=flat&logo=android&logoColor=98ed64&label=:&labelColor=222&color=111">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=dede0b&label=:&labelColor=222&color=111">
   <img alt="Kali" src="https://img.shields.io/badge/Kali_Linux-black?style=flat&logo=kalilinux&logoColor=00ffff&label=:&labelColor=222&color=111">
