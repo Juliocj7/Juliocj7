@@ -409,6 +409,21 @@ i'm@god:~$ echo "$JulioCj7"
 
 
 [![RickRollxD](https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/g-03.gif)](https://youtu.be/dQw4w9WgXcQ)
+
+
+<div align="center">
+
+---
+
+**[<kbd> <br> Install <br> </kbd>][Install]** 
+**[<kbd> <br> Configure <br> </kbd>][Configure]** 
+
+---
+
+[Install]: https://github.com/Juliocj7/docs/installation
+[Configure]: https://github.com/Juliocj7/docs/configuration
+
+</div>
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
