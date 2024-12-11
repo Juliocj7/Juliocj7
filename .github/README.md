@@ -341,6 +341,9 @@ i'm@god:~$ echo "$JulioCj7"
 
 <!-- ¡𝚂𝚞𝚍𝚘 𝚖𝚊𝚜𝚘𝚚𝚞𝚒𝚜𝚝𝚊!
 
+themes: rule34 gelbooru-h moebooru-h
+<img src="https://count.getloli.com/@:Juliocj7?theme=moebooru-h" alt="visitors" />
+
 [![sparkline](https://stars.medv.io/Juliocj7/Juliocj7.svg)](https://stars.medv.io/Juliocj7/Juliocj7)
 
 <p align="center">
