@@ -6,12 +6,7 @@
   ——————————————————————————————————————————————————————————
 /*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/*𝚂𝚒𝚖𝚙𝚕𝚢𝚃𝚑𝚎𝙱𝚎𝚜𝚝*/-->
 
-<!--
-  [¡𝚁𝙴𝙵𝙴𝚁𝙴𝙽𝙲𝙴!] ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ <𝚌𝚘𝚍𝚎𝚛𝚜/> 𝚠𝚎𝚋𝚜𝚒𝚝𝚎𝚜:
-  https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis
-  https://github.com/Ileriayo/markdown-badges
-  https://gist.github.com/rxaviers/7360908
--->
+<!--<𝚌𝚘𝚍𝚎𝚛> ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ <𝚌𝚘𝚍𝚎𝚛/>-->
 
 <div align="center">
   <sup id="inicio">
@@ -254,6 +249,14 @@ $$
   </a>
   <p align="center"><img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /> $^{\color{#252525}\text{𝚞𝚜𝚎𝚛:}} \space ^{\color{#4e4e4e}\text{¡𝟶𝚡𝟷𝟹𝟹𝟽!}}$ <img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /></p>
 </details>
+
+<hr>
+
+<div align="center">
+
+![1000480552](https://github.com/user-attachments/assets/1c83bc7f-9d32-47be-873f-2bf24abb1136)
+
+</div>
 
 <hr>
 
