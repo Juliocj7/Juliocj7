@@ -254,7 +254,7 @@ $$
 
 <div align="center">
 
-![1000480784](https://github.com/user-attachments/assets/66fd9dfe-025c-458d-9b1f-3b6779ee1fbe)
+![image](https://github.com/user-attachments/assets/a361ab71-c814-4874-82f0-44551e55e3a0)
 
 </div>
 
