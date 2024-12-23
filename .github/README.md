@@ -254,7 +254,7 @@ $$
 
 <div align="center">
 
-![wrapped](https://github.com/user-attachments/assets/30516917-de89-4cbd-b9cb-0d48d7a46df0)
+![wrapped](https://github.com/user-attachments/assets/4472e993-f860-4fc9-850d-f5b8dcb85d0d)
 
 </div>
 
