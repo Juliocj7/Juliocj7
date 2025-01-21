@@ -38,7 +38,8 @@
 > > &nbsp;<a href="#---"><img alt="i-techman" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚓𝚊𝚟𝚊 𝚊𝚛𝚌𝚑𝚒𝚟𝚎:
 >
 > > * [x] `𝚊𝚙𝚔𝚝𝚘𝚘𝚕-𝚜𝚗𝚊𝚙𝚜𝚑𝚘𝚝 𝟸.𝟾.𝟸`
-> > * [x] `𝚊𝚙𝚔𝚝𝚘𝚘𝚕-𝚜𝚗𝚊𝚙𝚜𝚑𝚘𝚝 𝟸.𝟿.𝟹` 
+> > * [x] `𝚊𝚙𝚔𝚝𝚘𝚘𝚕-𝚜𝚗𝚊𝚙𝚜𝚑𝚘𝚝 𝟸.𝟿.𝟹`
+> > * [x] `𝚊𝚙𝚔𝚝𝚘𝚘𝚕-𝚜𝚗𝚊𝚙𝚜𝚑𝚘𝚝 𝟸.11.1` 
 
 <div align="center">
   <sub>
