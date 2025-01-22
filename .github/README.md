@@ -260,6 +260,19 @@ $$
 
 </div>
 
+```mermaid
+journey
+  title Un día en mi vida by JulioCj7
+  section Día de estudio
+    Estudiar: 5: Yo, Angel
+    Investigar temas interesantes: 4: Yo, Angel
+    Resolver problemas: 3: Yo, Demonio
+  section Noche de aprendizaje
+    Profundizar en hacking: 5: Yo, Demonio
+    Resolver retos CTF: 5: Yo, Demonio
+    Explorar nuevas herramientas: 4: Yo, Angel, Demonio
+```
+
 <hr>
 
 <!--
