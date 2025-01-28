@@ -1,1 +1,1 @@
-password: <termuxbuild/>
+password: <­termuxbuild/>
