@@ -448,6 +448,21 @@ themes: rule34 gelbooru-h moebooru-h
 
 ---
 
+```mermaid  sed - -> 2 --­>
+graph LR
+    A[😎 User Access] - ->|­ scan ­| B[🤪 Shield]
+    B - ->|­ verify ­| C[🤬 Security Check]
+    C - ->|­ ying ­| D[😇 angel]
+    C - ->|­ yang ­| E[😈 devil]
+    style A fill:#222222
+    style B fill:#222222
+    style C fill:#222222
+    style D fill:#00d7ff
+    style E fill:#d70000
+```
+
+---
+
 <div align="center">
 
 ```diff
