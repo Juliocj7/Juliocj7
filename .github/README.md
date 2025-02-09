@@ -262,7 +262,7 @@ $$
 
 ```mermaid
 journey
-  title Un día en mi vida by JulioCj7
+  title Un simple día en mi vida xD
   section Día de estudio
     Estudiar: 5: Yo, Angel
     Investigar temas interesantes: 4: Yo, Angel
@@ -445,6 +445,24 @@ themes: rule34 gelbooru-h moebooru-h
 [Configure]: https://github.com/Juliocj7/docs/configuration
 
 </div>
+
+---
+
+<div align="center">
+
+```diff
+- 🚨 SECURITY DISCLAIMER 🚨
+```
+
+```diff
+@@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
++ Use Responsibly
+! Always Get Proper Authorization
+```
+
+</div>
+
+---
 
 ./reality: SIGSEGV, Segmentation fault (core dumped)
 
