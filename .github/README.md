@@ -461,6 +461,35 @@ graph LR
     style E fill:#d70000
 ```
 
+```mermaid
+---
+config:
+  theme: base
+  flowchart:
+    curve: cardinal
+    shape: stadium
+    padding: 4
+  themeVariables:
+    lineColor: "#220033"
+    primaryColor: "#220033"
+    primaryBorderColor: "#220033"
+    primaryTextColor: "#EEAAFF"
+---
+flowchart RL
+  umd(xD)
+  gls(Juliocj7)
+  glm(ying)
+  bggl(yang)
+  way(i'm the)
+  res(devil)
+  gls --- glm
+  gls --- bggl
+  res --- way
+
+  classDef default stroke-width:8px,font-weight:bold;
+  linkStyle default stroke-width:8px;
+```
+
 ---
 
 <div align="center">
