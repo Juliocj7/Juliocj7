@@ -17,7 +17,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
         .title {
             font-family: 'Orbitron', sans-serif;
-            font-size: 80px;
+            font-size: 3em;
             font-weight: 700;
             fill: url(#gradient2);
         }
