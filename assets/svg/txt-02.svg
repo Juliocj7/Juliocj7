@@ -15,7 +15,7 @@
           overflow: hidden;
           border-right: 3px solid;
           font-family: monospace;
-          font-size: 4em;
+          font-size: 2em;
           background: linear-gradient(90deg, rgba(0,241,220,1) 0%, rgba(86,115,241,1) 44%, rgba(103,68,241,1) 54%, rgba(254,0,255,1) 100%);
           -webkit-background-clip: text;
           -webkit-text-fill-color: transparent;
