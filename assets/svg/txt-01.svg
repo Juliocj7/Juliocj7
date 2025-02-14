@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="100" viewBox="0 0 800 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#00ff00;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#0099ff;stop-opacity:1" />
+        </linearGradient>
+        <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:rgb(0,241,220);stop-opacity:1" />
+            <stop offset="44%" style="stop-color:rgb(86,115,241);stop-opacity:1" />
+            <stop offset="54%" style="stop-color:rgb(103,68,241);stop-opacity:1" />
+            <stop offset="100%" style="stop-color:rgb(254,0,255);stop-opacity:1" />
+        </linearGradient>
+
+    </defs>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&amp;display=swap');
+        .title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 80px;
+            font-weight: 700;
+            fill: url(#gradient2);
+        }
+    </style>
+    <text x="400" y="60" text-anchor="middle" class="title">
+        &lt; SimplyTheBest /&gt;
+    </text>
+</svg>
