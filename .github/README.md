@@ -264,17 +264,35 @@ $$
 
 </div>
 
+<hr>
+
 ```mermaid
-journey
-  title Un simple día en mi vida xD
-  section Día de estudio
-    Estudiar: 5: Yo, Angel
-    Investigar temas interesantes: 4: Yo, Angel
-    Resolver problemas: 3: Yo, Demonio
-  section Noche de aprendizaje
-    Profundizar en hacking: 5: Yo, Demonio
-    Resolver retos CTF: 5: Yo, Demonio
-    Explorar nuevas herramientas: 4: Yo, Angel, Demonio
+---
+config:
+  theme: base
+  flowchart:
+    curve: cardinal
+    shape: stadium
+    padding: 4
+  themeVariables:
+    lineColor: "#220033"
+    primaryColor: "#220033"
+    primaryBorderColor: "#220033"
+    primaryTextColor: "#EEAAFF"
+---
+flowchart RL
+  umd(xD)
+  gls(Juliocj7)
+  glm(ying)
+  bggl(yang)
+  way(i'm the)
+  res(devil)
+  gls --- glm
+  gls --- bggl
+  res --- way
+
+  classDef default stroke-width:8px,font-weight:bold;
+  linkStyle default stroke-width:8px;
 ```
 
 <hr>
@@ -363,15 +381,13 @@ i'm@god:~$ echo "$JulioCj7"
 
 <!-- ¡𝚂𝚞𝚍𝚘 𝚖𝚊𝚜𝚘𝚚𝚞𝚒𝚜𝚝𝚊!
 
-themes: rule34 gelbooru-h moebooru-h
-<img src="https://count.getloli.com/@:Juliocj7?theme=moebooru-h" alt="visitors" />
-
 [![sparkline](https://stars.medv.io/Juliocj7/Juliocj7.svg)](https://stars.medv.io/Juliocj7/Juliocj7)
 
 <p align="center">
   <img src="https://stars.medv.io/Juliocj7/Juliocj7.svg", title="starsgazers"/>
 </p>
 
+---
 
 <div align="center">
   <details>
@@ -391,6 +407,7 @@ themes: rule34 gelbooru-h moebooru-h
   </details>
 </div>
 
+---
 
 > [!CAUTION]
 > <blockquote>
@@ -403,6 +420,7 @@ themes: rule34 gelbooru-h moebooru-h
 > </details>
 > </blockquote>
 
+---
 
 <div align="center">
   <p>
@@ -415,35 +433,30 @@ themes: rule34 gelbooru-h moebooru-h
   </p>
 </div>
 
-
-<a href="https://github.com/JulioCj7">
-  <table align="right">
-      <tr>
-          <td>
-            👉 &nbsp;&nbsp;exit 0
-          </td>
-      </tr>
-  </table>
-</a>
-
+---
 
 <div align="center">
 
-##### **[`             Inicio              `](#)**
+  [![RickRollxD](https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/g-03.gif)](https://youtu.be/dQw4w9WgXcQ)
+  
+  <a href="https://github.com/JulioCj7">
+    <table align="right">
+      <tr>
+        <td>
+          👉 &nbsp;&nbsp;exit 0
+        </td>
+      </tr>
+    </table>
+  </a>
+  <br><br>
 </div>
 
-
-[![RickRollxD](https://github.com/Juliocj7/Juliocj7/blob/main/imagesgif/g-03.gif)](https://youtu.be/dQw4w9WgXcQ)
-
+---
 
 <div align="center">
-
----
 
 **[<kbd> <br> Install <br> </kbd>][Install]** 
 **[<kbd> <br> Configure <br> </kbd>][Configure]** 
-
----
 
 [Install]: https://github.com/Juliocj7/docs/installation
 [Configure]: https://github.com/Juliocj7/docs/configuration
@@ -466,32 +479,16 @@ graph LR
 ```
 
 ```mermaid
----
-config:
-  theme: base
-  flowchart:
-    curve: cardinal
-    shape: stadium
-    padding: 4
-  themeVariables:
-    lineColor: "#220033"
-    primaryColor: "#220033"
-    primaryBorderColor: "#220033"
-    primaryTextColor: "#EEAAFF"
----
-flowchart RL
-  umd(xD)
-  gls(Juliocj7)
-  glm(ying)
-  bggl(yang)
-  way(i'm the)
-  res(devil)
-  gls --- glm
-  gls --- bggl
-  res --- way
-
-  classDef default stroke-width:8px,font-weight:bold;
-  linkStyle default stroke-width:8px;
+journey
+  title Un simple día en mi vida xD
+  section Día de estudio
+    Estudiar: 5: Yo, Angel
+    Investigar temas interesantes: 4: Yo, Angel
+    Resolver problemas: 3: Yo, Demonio
+  section Noche de aprendizaje
+    Profundizar en hacking: 5: Yo, Demonio
+    Resolver retos CTF: 5: Yo, Demonio
+    Explorar nuevas herramientas: 4: Yo, Angel, Demonio
 ```
 
 ---
@@ -502,11 +499,15 @@ flowchart RL
 - 🚨 SECURITY DISCLAIMER 🚨
 ```
 
+  <div align="left">
+
 ```diff
 @@ THIS IS A PROOF OF CONCEPT - FOR EDUCATIONAL PURPOSES ONLY @@
 + Use Responsibly
 ! Always Get Proper Authorization
 ```
+
+  </div>
 
 [![Glitch Art](https://glitch-art.vercel.app/api/simple?word=JulioCj7)](#---)
 
@@ -514,9 +515,20 @@ flowchart RL
 
 ---
 
-./reality: SIGSEGV, Segmentation fault (core dumped)
+themes: rule34 gelbooru-h moebooru-h
+<div align="center">
+  <img src="https://count.getloli.com/@:Juliocj7?theme=moebooru-h" alt="visitors" />
+</div>
 
-https://网.com/#×͜×
+---
+
+<div align="center">
+
+##### **[`             Inicio              `](#)**
+
+</div>
+
+[./reality: SIGSEGV, Segmentation fault (core dumped)](https://网.com/#×͜×)
 
 -->
 
