@@ -254,8 +254,7 @@ $$
 
 <div align="center">
 
-[![wrapped](https://github.com/user-attachments/assets/4472e993-f860-4fc9-850d-f5b8dcb85d0d)](#---)
-
+[![wrapped](https://github.com/user-attachments/assets/ec1aee88-9ec1-4ed9-9572-132a83c93b33)](#---)
 
 <!--
 [![gitch](https://github.com/user-attachments/assets/a86ef8e3-04e6-43c4-b327-b87588b0e902)](#---)
