@@ -1,4 +1,4 @@
-``stl`
+```stl
 solid Exported from Blender-3.6.1
 facet normal -1.000000 0.000000 0.000000
 outer loop
