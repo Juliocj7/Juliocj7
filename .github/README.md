@@ -250,6 +250,12 @@ $$
   <p align="center"><img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /> $^{\color{#252525}\text{𝚞𝚜𝚎𝚛:}} \space ^{\color{#4e4e4e}\text{¡𝟶𝚡𝟷𝟹𝟹𝟽!}}$ <img alt="i-fireball" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-fireball.webp" width="15" height="15" /></p>
 </details>
 
+<div align="center">
+  <a href="#---">
+    <img alt="spotify gh-profile" src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/svg/spotify-02.svg" />
+  </a>
+</div>
+
 <hr>
 
 <div align="center">
