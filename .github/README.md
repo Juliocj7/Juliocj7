@@ -115,6 +115,10 @@ $$
   </a>
 </div>
 
+<!--
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Juliocj7&hide_border=true&locale=es&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&hide_stroke=true&stroke_color=000&title=SimplyTheBest&title_color=444)
+-->
+
 <div align="center">
   <a href="https://github.com/Zachpocalypse/github-readme-stats">
     <picture>
@@ -150,6 +154,14 @@ $$
       <img alt="top-repo 4" src="https://github-readme-stats.vercel.app/api/pin/?username=Juliocj7&repo=FlagCaptureCj7&show_icons=true&theme=dark&locale=es&hide_border=true&icon_color=666&title_color=777&bg_color=f0f1f2" />
     </picture>
   </a>
+</div>
+
+<div align="center">
+  <br>
+  <a href="LICENSE">
+    <img src="https://custom-icon-badges.demolab.com/github/license/FajarKim/github-readme-profile?label=License&labelColor=302d41&color=91d7e3&logo=law&logoColor=d9e0ee&style=plastic" alt="license gh-profile">
+  </a>
+  <br><br>
 </div>
 
 <div align="center">
@@ -371,7 +383,15 @@ i'm@god:~$ echo "$JulioCj7"
 [![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=SimplyTheBest&textBg=false&fontColor=333&fontSize=25&animation=blink&desc=i%20rOOck%20you&descSize=15&fontAlign=50&fontAlignY=62&descAlignY=79&section=footer)](#---)
 -->
 
-***
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/svg/line-01.svg?sanitize=true"/>
+</div>
+
+<div align="center">
+  <small>𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽</small>
+</div>
+
+<br>
 
 <div align="center">
   <a href="#inicio">
