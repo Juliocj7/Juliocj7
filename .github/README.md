@@ -388,7 +388,7 @@ i'm@god:~$ echo "$JulioCj7"
 </div>
 
 <div align="center">
-  <small>𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽</small>
+  <sub>𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽</sub>
 </div>
 
 <br>
