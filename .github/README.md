@@ -300,13 +300,13 @@ config:
 ---
 flowchart RL
   umd(xD)
-  gls(Juliocj7)
-  glm(ying)
-  bggl(yang)
+  stb(cj7)
+  god(yin)
+  bad(yang)
   way(i'm the)
   res(devil)
-  gls --- glm
-  gls --- bggl
+  stb --- god
+  stb --- bad
   res --- way
 
   classDef default stroke-width:8px,font-weight:bold;
