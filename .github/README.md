@@ -565,6 +565,14 @@ themes: rule34 gelbooru-h moebooru-h
 
 [./reality: SIGSEGV, Segmentation fault (core dumped)](https://网.com/#×͜×)
 
+---
+
+<div align="center">
+  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Juliocj7/FlagCaptureCj7.git&tutorial=0x1337.md" target="_blank">
+    <img src="https://gstatic.com/cloudssh/images/open-btn.svg">
+  </a>
+</div>
+
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
