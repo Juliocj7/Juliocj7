@@ -250,6 +250,10 @@ $$
 
 <hr>
 
+[![repobeats](https://repobeats.axiom.co/api/embed/336a3c225e40fc4f92e26b80dd33ec19ce90c74e.svg "Repobeats analytics image")](#---)  
+
+<hr>
+
 <details>
   <summary> ${\color{#4e4e4e}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
   <br>
