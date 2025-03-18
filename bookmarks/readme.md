@@ -36,6 +36,14 @@
 
 ---
 
+> [!NOTE]
+> > &nbsp;<a href="#---"><img alt="i-techman" src="https://github.com/Juliocj7/Juliocj7/blob/main/assets/image/i-techman.png" width="25" height="25" /></a> &nbsp;...&nbsp; 𝚊𝚗𝚍𝚛𝚘𝚒𝚍 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜:
+>
+> > * [x] `𝚙𝚛𝚘𝚓𝚎𝚌𝚝-𝟶𝟷`
+> > * [x] `𝚙𝚛𝚘𝚓𝚎𝚌𝚝-𝟶𝟸`
+
+---
+
 <br>
 
 <div align="center">
