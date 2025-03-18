@@ -248,9 +248,11 @@ $$
   <img alt="Debian" src="https://img.shields.io/badge/Debian-black?style=flat&logo=debian&logoColor=ff0000&label=:&labelColor=222&color=111">
 </div>
 
+<!--
 <hr>
 
 [![repobeats](https://repobeats.axiom.co/api/embed/336a3c225e40fc4f92e26b80dd33ec19ce90c74e.svg "Repobeats analytics image")](#---)  
+-->
 
 <hr>
 
@@ -282,7 +284,9 @@ $$
 [![gitch](https://github.com/user-attachments/assets/a86ef8e3-04e6-43c4-b327-b87588b0e902)](#---)
 -->
 
+<!--
 [![gitch](https://github.com/user-attachments/assets/89aedd60-d764-4439-97c0-795918e8bb16)](#---)
+-->
 
 </div>
 
@@ -388,11 +392,17 @@ i'm@god:~$ echo "$JulioCj7"
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/svg/line-01.svg?sanitize=true"/>
+  <a href="#---">
+    <img src="https://raw.githubusercontent.com/Juliocj7/Juliocj7/refs/heads/main/assets/svg/line-01.svg?sanitize=true" />
+  </a>
 </div>
 
 <div align="center">
-  <sub>𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽</sub>
+  <sub>
+    
+  > 𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 ❤️ 𝚋𝚢 𝙹𝚞𝚕𝚒𝚘𝙲𝚓𝟽
+
+  </sub>
 </div>
 
 <br>
