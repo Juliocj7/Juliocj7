@@ -307,15 +307,16 @@ config:
     primaryTextColor: "#EEAAFF"
 ---
 flowchart RL
-  umd(xD)
-  stb(cj7)
-  god(yin)
-  bad(yang)
-  way(i'm the)
-  res(devil)
+  umd(𝚝𝚎𝚛𝚖𝚞𝚡)
+  stb(𝟶𝚡𝟷𝟹𝟹𝟽)
+  god(𝚎𝚗𝚌𝚛𝚢𝚙𝚝)
+  bad(𝚍𝚎𝚌𝚛𝚢𝚙𝚝)
+  way(𝚊𝚗𝚍𝚛𝚘𝚒𝚍)
+  res(𝚊𝚠𝚎𝚜𝚘𝚖𝚎)
+  lol(𝚒𝚜)
   stb --- god
   stb --- bad
-  res --- way
+  res --- lol --- way
 
   classDef default stroke-width:8px,font-weight:bold;
   linkStyle default stroke-width:8px;
