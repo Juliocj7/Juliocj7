@@ -249,6 +249,15 @@ $$
 </div>
 
 <!--
+
+<hr>
+
+<div align="center">
+  <a href="#---">
+    <img alt="leetcode-stats" src="https://leetcard.jacoblin.cool/Juliocj7?theme=wtf&font=KoHo&ext=heatmap&border_radius=20" />
+  </a>
+</div>
+
 <hr>
 
 [![repobeats](https://repobeats.axiom.co/api/embed/336a3c225e40fc4f92e26b80dd33ec19ce90c74e.svg "Repobeats analytics image")](#---)  
