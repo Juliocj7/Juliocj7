@@ -345,7 +345,7 @@ $${\color{#202020}!} \space {\color{#333}Nunca \space dejes \space de \space apr
 </div>
 
 <div align="center">
-  <a href="#---">
+  <a href="https://juliocj7.github.io/misc/linktree">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliocj7/juliocj7/main/assets/image/g-01.gif">
       <img alt="02-banner gh-profile" width="500" src="https://raw.githubusercontent.com/juliocj7/juliocj7/main/assets/image/g-04.gif" />
