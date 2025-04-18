@@ -266,7 +266,7 @@ $$
 <hr>
 
 <details>
-  <summary> ${\color{#4e4e4e}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝚖𝚘𝚝𝚑𝚎𝚛𝚏𝚞𝚌𝚔𝚎𝚛}$ </summary>
+  <summary> ${\color{#4e4e4e}¡𝚂𝚞𝚛𝚙𝚛𝚒𝚜𝚎 \space ! } \space {\color{#0d1117}𝙼𝚘𝚝𝚑𝚎𝚛𝙵*𝙲𝙺𝚎𝚛𝚜}$ </summary>
   <br>
   <a href="https://juliocj7.github.io/misc/music?play=https://github.com/Juliocj7/Juliocj7/raw/refs/heads/main/assets/music/0x1337.mp3" target="_blank">
     <picture>
