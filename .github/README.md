@@ -575,6 +575,8 @@ themes: rule34 gelbooru-h moebooru-h
 <div align="center">
   <a href="https://www.buymeacoffee.com/juliocj7"><img alt="donate-coffee" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg">
   </a>
+  <a href="https://buymeacoff.ee/Juliocj7"><img alt="donate-coffee" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg">
+  </a>
   <a href="https://ko-fi.com/juliocj7"><img alt="donate-kofi" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/donate/kofi-singular_vector.svg">
   </a>
 </div>
