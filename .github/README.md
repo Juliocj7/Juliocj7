@@ -585,7 +585,7 @@ themes: rule34 gelbooru-h moebooru-h
 
 <div align="center">
 
-##### **[`             Inicio              `](#)**
+##### **[`             𝙸𝚗𝚒𝚌𝚒𝚘              `](#)**
 
 </div>
 
