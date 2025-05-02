@@ -599,6 +599,12 @@ themes: rule34 gelbooru-h moebooru-h
   </a>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=Juliocj7/termux-monet&type=Date&theme=dark"/>
+</div>
+
 -->
 
 <!-- 𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 © 𝟸𝟶𝟸𝟻 𝚊𝚕𝚕 𝚛𝚒𝚐𝚑𝚝𝚜 𝚛𝚎𝚜𝚎𝚛𝚟𝚎𝚍 🖕🏻 -->
